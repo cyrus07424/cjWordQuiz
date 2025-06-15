@@ -39,7 +39,7 @@
               <UButton 
                 @click="startQuiz('cn-jp')" 
                 size="lg" 
-                color="blue"
+                color="primary"
                 class="flex-1"
               >
                 開始 / Start
@@ -47,7 +47,7 @@
               <UButton 
                 @click="resetStats('cn-jp')" 
                 variant="outline" 
-                color="gray"
+                color="neutral"
                 size="lg"
               >
                 リセット
@@ -84,7 +84,7 @@
               <UButton 
                 @click="startQuiz('jp-cn')" 
                 size="lg" 
-                color="green"
+                color="success"
                 class="flex-1"
               >
                 開始 / Start
@@ -92,7 +92,7 @@
               <UButton 
                 @click="resetStats('jp-cn')" 
                 variant="outline" 
-                color="gray"
+                color="neutral"
                 size="lg"
               >
                 リセット

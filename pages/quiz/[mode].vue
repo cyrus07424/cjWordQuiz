@@ -7,7 +7,7 @@
           <UButton 
             @click="navigateTo('/')" 
             variant="outline" 
-            color="gray"
+            color="neutral"
             icon="i-heroicons-arrow-left"
           >
             戻る / Back
@@ -46,7 +46,7 @@
             :key="index"
             @click="selectAnswer(index)"
             variant="outline"
-            color="gray"
+            color="neutral"
             size="lg"
             class="w-full text-left justify-start h-auto py-4"
           >
@@ -101,7 +101,7 @@
           <div class="flex gap-3">
             <UButton 
               @click="nextQuestion" 
-              color="blue" 
+              color="primary" 
               size="lg"
               class="flex-1"
             >
@@ -110,7 +110,7 @@
             <UButton 
               @click="navigateTo('/')" 
               variant="outline" 
-              color="gray"
+              color="neutral"
               size="lg"
             >
               終了 / Finish
