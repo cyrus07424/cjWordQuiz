@@ -52,7 +52,6 @@
           >
             <div>
               <div class="font-medium">{{ option.text }}</div>
-              <div class="text-sm text-gray-500 mt-1">{{ option.meaning }}</div>
             </div>
           </UButton>
         </div>
