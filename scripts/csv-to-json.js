@@ -15,10 +15,11 @@ const data = lines.slice(1).map(line => {
   const cols = line.split(',')
   return {
     japanese: cols[0],
-    japanese_meaning: cols[1],
-    chinese: cols[2],
-    chinese_meaning: cols[3],
-    pinyin: cols[4]
+    yomigana: cols[1],
+    japanese_meaning: cols[2],
+    chinese: cols[3],
+    pinyin: cols[4],
+    chinese_meaning: cols[5]
   }
 })
 fs.writeFileSync(jsonPath, JSON.stringify(data, null, 2), 'utf-8')

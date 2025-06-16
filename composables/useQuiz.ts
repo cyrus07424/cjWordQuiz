@@ -2,10 +2,11 @@ import wordsJson from '~/data/words.json'
 
 export interface WordData {
   japanese: string
+  yomigana: string
   japanese_meaning: string
   chinese: string
-  chinese_meaning: string
   pinyin: string
+  chinese_meaning: string
 }
 
 export interface QuizQuestion {
@@ -32,6 +33,11 @@ export const useQuiz = () => {
   const showResult = ref(false)
   const lastAnswerCorrect = ref(false)
 
+  // Utility function to format Japanese text with ruby tags
+  const formatJapaneseWithRuby = (japanese: string, yomigana: string): string => {
+    return `<ruby>${japanese}<rt>${yomigana}</rt></ruby>`
+  }
+
   // Utility function to format Chinese text with ruby tags
   const formatChineseWithRuby = (chinese: string, pinyin: string): string => {
     return `<ruby>${chinese}<rt>${pinyin}</rt></ruby>`
@@ -53,12 +59,12 @@ export const useQuiz = () => {
 
     const options = [
       {
-        text: correctWord.japanese,
+        text: formatJapaneseWithRuby(correctWord.japanese, correctWord.yomigana),
         meaning: correctWord.japanese_meaning,
         isCorrect: true
       },
       ...wrongWords.map(w => ({
-        text: w.japanese,
+        text: formatJapaneseWithRuby(w.japanese, w.yomigana),
         meaning: w.japanese_meaning,
         isCorrect: false
       }))
@@ -67,7 +73,7 @@ export const useQuiz = () => {
     return {
       question: formatChineseWithRuby(correctWord.chinese, correctWord.pinyin),
       questionMeaning: correctWord.chinese_meaning,
-      correctAnswer: correctWord.japanese,
+      correctAnswer: formatJapaneseWithRuby(correctWord.japanese, correctWord.yomigana),
       correctAnswerMeaning: correctWord.japanese_meaning,
       options
     }
