@@ -3,6 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "predev": "node scripts/csv-to-json.js",
+    "pregenerate": "node scripts/csv-to-json.js",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",

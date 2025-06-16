@@ -1,3 +1,5 @@
+import wordsJson from '~/data/words.json'
+
 export interface WordData {
   japanese: string
   japanese_meaning: string
@@ -29,44 +31,16 @@ export const useQuiz = () => {
   const currentQuestion = ref<QuizQuestion | null>(null)
   const showResult = ref(false)
   const lastAnswerCorrect = ref(false)
-  
+
   // Utility function to format Chinese text with ruby tags
   const formatChineseWithRuby = (chinese: string, pinyin: string): string => {
     return `<ruby>${chinese}<rt>${pinyin}</rt></ruby>`
   }
-  
-  // Load words from CSV data
+
+  // 単語データを読み込む
   const loadWords = async () => {
-    try {
-      // Import the CSV data as raw text
-      const csvData = `japanese,japanese_meaning,chinese,chinese_meaning,pinyin
-こんにちは,挨拶,你好,问候,nǐ hǎo
-ありがとう,感謝,谢谢,感谢,xiè xiè
-すみません,謝罪,对不起,道歉,duì bù qǐ
-水,液体,水,液体,shuǐ
-本,書籍,书,书籍,shū
-学校,教育機関,学校,教育机关,xué xiào
-友達,仲間,朋友,朋友,péng yǒu
-時間,時刻,时间,时间,shí jiān
-食べ物,食料,食物,食物,shí wù
-家,住居,家,家,jiā`
-      
-      const lines = csvData.trim().split('\n')
-      const headers = lines[0].split(',')
-      
-      words.value = lines.slice(1).map(line => {
-        const values = line.split(',')
-        return {
-          japanese: values[0],
-          japanese_meaning: values[1],
-          chinese: values[2],
-          chinese_meaning: values[3],
-          pinyin: values[4]
-        }
-      })
-    } catch (error) {
-      console.error('Failed to load words:', error)
-    }
+    // FIXME words.jsonの内容を利用
+    words.value = wordsJson
   }
 
   // Generate quiz question for Chinese -> Japanese mode
@@ -76,7 +50,7 @@ export const useQuiz = () => {
       .filter(w => w.japanese !== correctWord.japanese)
       .sort(() => Math.random() - 0.5)
       .slice(0, 3)
-    
+
     const options = [
       {
         text: correctWord.japanese,
@@ -106,7 +80,7 @@ export const useQuiz = () => {
       .filter(w => w.chinese !== correctWord.chinese)
       .sort(() => Math.random() - 0.5)
       .slice(0, 3)
-    
+
     const options = [
       {
         text: formatChineseWithRuby(correctWord.chinese, correctWord.pinyin),
@@ -137,7 +111,7 @@ export const useQuiz = () => {
     }
 
     showResult.value = false
-    currentQuestion.value = mode === 'cn-jp' 
+    currentQuestion.value = mode === 'cn-jp'
       ? generateChineseToJapaneseQuestion()
       : generateJapaneseToChineseQuestion()
   }
