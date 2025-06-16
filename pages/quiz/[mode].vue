@@ -3,20 +3,22 @@
     <div class="max-w-2xl mx-auto">
       <!-- Header -->
       <div class="text-center mb-8">
-        <div class="flex items-center justify-center gap-4 mb-4">
-          <UButton 
-            @click="navigateTo('/')" 
-            variant="outline" 
-            color="neutral"
-            icon="i-heroicons-arrow-left"
-          >
-            戻る / Back
-          </UButton>
+        <div class="gap-4 mb-4">
           <h1 class="text-2xl font-bold text-gray-800">
             {{ mode === 'cn-jp' ? '中文 → 日本語' : '日本語 → 中文' }}
           </h1>
         </div>
-        
+        <div class="gap-4 mb-4">
+          <UButton
+              @click="navigateTo('/')"
+              variant="outline"
+              color="neutral"
+              icon="i-heroicons-arrow-left"
+          >
+            戻る / Back
+          </UButton>
+        </div>
+
         <!-- Stats -->
         <div class="flex justify-center gap-8 text-sm text-gray-600">
           <div>問題数: {{ stats.attempted }}</div>
@@ -41,13 +43,13 @@
 
         <div class="space-y-3">
           <UButton
-            v-for="(option, index) in currentQuestion.options"
-            :key="index"
-            @click="selectAnswer(index)"
-            variant="outline"
-            color="neutral"
-            size="lg"
-            class="w-full text-left justify-start h-auto py-4"
+              v-for="(option, index) in currentQuestion.options"
+              :key="index"
+              @click="selectAnswer(index)"
+              variant="outline"
+              color="neutral"
+              size="lg"
+              class="w-full text-left justify-start h-auto py-4"
           >
             <div>
               <div class="font-medium" v-html="option.text"></div>
@@ -84,11 +86,11 @@
           <div class="bg-gray-50 p-4 rounded-lg">
             <h3 class="font-semibold text-gray-800 mb-2">選択肢の意味:</h3>
             <div class="space-y-1">
-              <div 
-                v-for="(option, index) in currentQuestion.options" 
-                :key="index"
-                class="text-gray-700 text-sm"
-                :class="{ 'font-semibold text-green-600': option.isCorrect }"
+              <div
+                  v-for="(option, index) in currentQuestion.options"
+                  :key="index"
+                  class="text-gray-700 text-sm"
+                  :class="{ 'font-semibold text-green-600': option.isCorrect }"
               >
                 <span v-html="option.text"></span> - {{ option.meaning }}
                 {{ option.isCorrect ? ' (正解)' : '' }}
@@ -97,19 +99,19 @@
           </div>
 
           <div class="flex gap-3">
-            <UButton 
-              @click="nextQuestion" 
-              color="primary" 
-              size="lg"
-              class="flex-1"
+            <UButton
+                @click="nextQuestion"
+                color="primary"
+                size="lg"
+                class="flex-1"
             >
               次の問題 / Next
             </UButton>
-            <UButton 
-              @click="navigateTo('/')" 
-              variant="outline" 
-              color="neutral"
-              size="lg"
+            <UButton
+                @click="navigateTo('/')"
+                variant="outline"
+                color="neutral"
+                size="lg"
             >
               終了 / Finish
             </UButton>
@@ -124,6 +126,9 @@
         </div>
       </UCard>
     </div>
+    <footer class="text-center text-gray-400 mt-8">
+      &copy; 2025 <a href="https://github.com/cyrus07424" target="_blank">cyrus</a>
+    </footer>
   </div>
 </template>
 
@@ -139,9 +144,9 @@ if (!['cn-jp', 'jp-cn'].includes(mode)) {
   })
 }
 
-const { 
-  currentQuestion, 
-  showResult, 
+const {
+  currentQuestion,
+  showResult,
   lastAnswerCorrect,
   loadWords,
   nextQuestion: generateNextQuestion,
@@ -149,7 +154,7 @@ const {
   getStats
 } = useQuiz()
 
-const stats = ref({ attempted: 0, correct: 0 })
+const stats = ref({attempted: 0, correct: 0})
 
 const loadStats = () => {
   stats.value = getStats(mode)
