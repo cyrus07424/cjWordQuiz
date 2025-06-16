@@ -30,6 +30,11 @@ export const useQuiz = () => {
   const showResult = ref(false)
   const lastAnswerCorrect = ref(false)
   
+  // Utility function to format Chinese text with ruby tags
+  const formatChineseWithRuby = (chinese: string, pinyin: string): string => {
+    return `<ruby>${chinese}<rt>${pinyin}</rt></ruby>`
+  }
+  
   // Load words from CSV data
   const loadWords = async () => {
     try {
@@ -86,7 +91,7 @@ export const useQuiz = () => {
     ].sort(() => Math.random() - 0.5)
 
     return {
-      question: `${correctWord.chinese} (${correctWord.pinyin})`,
+      question: formatChineseWithRuby(correctWord.chinese, correctWord.pinyin),
       questionMeaning: correctWord.chinese_meaning,
       correctAnswer: correctWord.japanese,
       correctAnswerMeaning: correctWord.japanese_meaning,
@@ -104,12 +109,12 @@ export const useQuiz = () => {
     
     const options = [
       {
-        text: `${correctWord.chinese} (${correctWord.pinyin})`,
+        text: formatChineseWithRuby(correctWord.chinese, correctWord.pinyin),
         meaning: correctWord.chinese_meaning,
         isCorrect: true
       },
       ...wrongWords.map(w => ({
-        text: `${w.chinese} (${w.pinyin})`,
+        text: formatChineseWithRuby(w.chinese, w.pinyin),
         meaning: w.chinese_meaning,
         isCorrect: false
       }))
@@ -118,7 +123,7 @@ export const useQuiz = () => {
     return {
       question: correctWord.japanese,
       questionMeaning: correctWord.japanese_meaning,
-      correctAnswer: `${correctWord.chinese} (${correctWord.pinyin})`,
+      correctAnswer: formatChineseWithRuby(correctWord.chinese, correctWord.pinyin),
       correctAnswerMeaning: correctWord.chinese_meaning,
       options
     }

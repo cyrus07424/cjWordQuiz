@@ -31,8 +31,7 @@
       <UCard v-if="currentQuestion && !showResult" class="mb-6">
         <template #header>
           <div class="text-center">
-            <h2 class="text-xl font-semibold text-gray-800 mb-2">
-              {{ currentQuestion.question }}
+            <h2 class="text-xl font-semibold text-gray-800 mb-2" v-html="currentQuestion.question">
             </h2>
             <p class="text-gray-600 text-sm">
               意味: {{ currentQuestion.questionMeaning }}
@@ -51,7 +50,7 @@
             class="w-full text-left justify-start h-auto py-4"
           >
             <div>
-              <div class="font-medium">{{ option.text }}</div>
+              <div class="font-medium" v-html="option.text"></div>
             </div>
           </UButton>
         </div>
@@ -71,14 +70,14 @@
           <div class="bg-blue-50 p-4 rounded-lg">
             <h3 class="font-semibold text-blue-800 mb-2">問題:</h3>
             <div class="text-blue-700">
-              {{ currentQuestion.question }} - {{ currentQuestion.questionMeaning }}
+              <span v-html="currentQuestion.question"></span> - {{ currentQuestion.questionMeaning }}
             </div>
           </div>
 
           <div class="bg-green-50 p-4 rounded-lg">
             <h3 class="font-semibold text-green-800 mb-2">正解:</h3>
             <div class="text-green-700">
-              {{ currentQuestion.correctAnswer }} - {{ currentQuestion.correctAnswerMeaning }}
+              <span v-html="currentQuestion.correctAnswer"></span> - {{ currentQuestion.correctAnswerMeaning }}
             </div>
           </div>
 
@@ -91,7 +90,7 @@
                 class="text-gray-700 text-sm"
                 :class="{ 'font-semibold text-green-600': option.isCorrect }"
               >
-                {{ option.text }} - {{ option.meaning }}
+                <span v-html="option.text"></span> - {{ option.meaning }}
                 {{ option.isCorrect ? ' (正解)' : '' }}
               </div>
             </div>
