@@ -101,6 +101,49 @@
           </div>
         </UCard>
       </div>
+
+      <!-- Reset Confirmation Modal -->
+      <!-- TODO: Fix modal hydration issue -->
+      <!--
+      <UModal :model-value="isResetModalOpen" @update:model-value="val => isResetModalOpen = val">
+        <UCard :ui="{ ring: '', shadow: 'shadow-xl' }">
+          <template #header>
+            <div class="flex items-center justify-between">
+              <h3 class="text-lg font-semibold">統計をリセット</h3>
+              <UButton
+                color="gray"
+                variant="ghost"
+                icon="i-heroicons-x-mark-20-solid"
+                class="-my-1"
+                @click="isResetModalOpen = false"
+              />
+            </div>
+          </template>
+
+          <div class="space-y-4">
+            <p class="text-gray-600">
+              統計情報をリセットしてもよろしいですか？この操作は元に戻せません。
+            </p>
+            
+            <div class="flex gap-3 justify-end">
+              <UButton 
+                @click="cancelReset" 
+                variant="outline" 
+                color="neutral"
+              >
+                キャンセル
+              </UButton>
+              <UButton 
+                @click="confirmReset" 
+                color="red"
+              >
+                リセット
+              </UButton>
+            </div>
+          </div>
+        </UCard>
+      </UModal>
+      -->
     </div>
   </div>
 </template>
@@ -112,6 +155,10 @@ const { getStats, resetStats: resetQuizStats, loadWords } = useQuiz()
 const cnJpStats = ref({ attempted: 0, correct: 0 })
 const jpCnStats = ref({ attempted: 0, correct: 0 })
 
+// Confirmation dialog state
+const isResetModalOpen = ref(false)
+const resetMode = ref<'cn-jp' | 'jp-cn'>('cn-jp')
+
 const loadStats = () => {
   cnJpStats.value = getStats('cn-jp')
   jpCnStats.value = getStats('jp-cn')
@@ -122,8 +169,20 @@ const startQuiz = (mode: 'cn-jp' | 'jp-cn') => {
 }
 
 const resetStats = (mode: 'cn-jp' | 'jp-cn') => {
-  resetQuizStats(mode)
+  if (confirm('統計情報をリセットしてもよろしいですか？この操作は元に戻せません。')) {
+    resetQuizStats(mode)
+    loadStats()
+  }
+}
+
+const confirmReset = () => {
+  resetQuizStats(resetMode.value)
   loadStats()
+  isResetModalOpen.value = false
+}
+
+const cancelReset = () => {
+  isResetModalOpen.value = false
 }
 
 // Load data and stats on mount
