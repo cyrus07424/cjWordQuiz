@@ -16,7 +16,8 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
+  issues: write
   pull-requests: write
   pages: write
   id-token: write
@@ -35,7 +36,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
       - name: Detect package manager
         id: detect-package-manager
