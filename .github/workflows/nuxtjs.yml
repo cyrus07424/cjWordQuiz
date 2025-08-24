@@ -84,7 +84,7 @@ jobs:
             })
       - name: Upload artifact (if Push)
         if: ${{ github.event_name == 'push' }}
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
 
