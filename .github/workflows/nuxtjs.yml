@@ -72,7 +72,7 @@ jobs:
       - name: Static HTML export with Nuxt
         run: ${{ steps.detect-package-manager.outputs.manager }} run generate
       - name: Add label (if Pull Request)
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         if: ${{ github.event_name == 'pull_request' && github.actor == 'dependabot[bot]' }}
         with:
           script: |
