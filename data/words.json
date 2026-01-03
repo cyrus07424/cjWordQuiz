@@ -1,1 +1,7338 @@
-[]
+[
+  {
+    "japanese": "こんにちは",
+    "yomigana": "",
+    "japanese_meaning": "挨拶",
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "chinese_meaning": "问候"
+  },
+  {
+    "japanese": "ありがとう",
+    "yomigana": "",
+    "japanese_meaning": "感謝",
+    "chinese": "谢谢",
+    "pinyin": "xiè xiè",
+    "chinese_meaning": "感谢"
+  },
+  {
+    "japanese": "すみません",
+    "yomigana": "",
+    "japanese_meaning": "謝罪",
+    "chinese": "对不起",
+    "pinyin": "duì bù qǐ",
+    "chinese_meaning": "道歉"
+  },
+  {
+    "japanese": "水",
+    "yomigana": "",
+    "japanese_meaning": "液体",
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "chinese_meaning": "液体"
+  },
+  {
+    "japanese": "本",
+    "yomigana": "",
+    "japanese_meaning": "書籍",
+    "chinese": "书",
+    "pinyin": "shū",
+    "chinese_meaning": "书籍"
+  },
+  {
+    "japanese": "学校",
+    "yomigana": "",
+    "japanese_meaning": "教育機関",
+    "chinese": "学校",
+    "pinyin": "xué xiào",
+    "chinese_meaning": "教育机关"
+  },
+  {
+    "japanese": "友達",
+    "yomigana": "",
+    "japanese_meaning": "仲間",
+    "chinese": "朋友",
+    "pinyin": "péng yǒu",
+    "chinese_meaning": "朋友"
+  },
+  {
+    "japanese": "時間",
+    "yomigana": "",
+    "japanese_meaning": "時刻",
+    "chinese": "时间",
+    "pinyin": "shí jiān",
+    "chinese_meaning": "时间"
+  },
+  {
+    "japanese": "食べ物",
+    "yomigana": "",
+    "japanese_meaning": "食料",
+    "chinese": "食物",
+    "pinyin": "shí wù",
+    "chinese_meaning": "食物"
+  },
+  {
+    "japanese": "家",
+    "yomigana": "",
+    "japanese_meaning": "住居",
+    "chinese": "家",
+    "pinyin": "jiā",
+    "chinese_meaning": "家"
+  },
+  {
+    "japanese": "混じり合う",
+    "yomigana": "まじりあう",
+    "japanese_meaning": "",
+    "chinese": "混合",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "蘇る",
+    "yomigana": "よみがえる",
+    "japanese_meaning": "",
+    "chinese": "苏醒",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "何気ない",
+    "yomigana": "なにげない",
+    "japanese_meaning": "",
+    "chinese": "若无其事",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "しがみつく",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "紧紧抓住",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "辿る",
+    "yomigana": "たどる",
+    "japanese_meaning": "",
+    "chinese": "追寻",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "嗅ぐ",
+    "yomigana": "かぐ",
+    "japanese_meaning": "",
+    "chinese": "闻",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "放題",
+    "yomigana": "ほうだい",
+    "japanese_meaning": "",
+    "chinese": "自由随意的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "確率",
+    "yomigana": "かくりつ",
+    "japanese_meaning": "",
+    "chinese": "概率",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "竦む",
+    "yomigana": "すくむ",
+    "japanese_meaning": "",
+    "chinese": "畏缩",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "埋め尽くす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "挤满",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "虚しい",
+    "yomigana": "むなしい",
+    "japanese_meaning": "",
+    "chinese": "空虚",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "敢えて",
+    "yomigana": "あえて",
+    "japanese_meaning": "",
+    "chinese": "特意、故意",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "賄う",
+    "yomigana": "まかなう",
+    "japanese_meaning": "",
+    "chinese": "维持、提供",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "締め付ける",
+    "yomigana": "しめつける",
+    "japanese_meaning": "",
+    "chinese": "勒紧",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "駆られる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "被驱使",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "稼ぐ",
+    "yomigana": "かせぐ",
+    "japanese_meaning": "",
+    "chinese": "赚钱",
+    "pinyin": "",
+    "chinese_meaning": "通过自己劳动努力"
+  },
+  {
+    "japanese": "儲ける",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "赚钱",
+    "pinyin": "",
+    "chinese_meaning": "通过生意投资"
+  },
+  {
+    "japanese": "唱える",
+    "yomigana": "となえる",
+    "japanese_meaning": "",
+    "chinese": "主张、倡导",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "こびり着く",
+    "yomigana": "こびりつく",
+    "japanese_meaning": "",
+    "chinese": "萦绕、缠绕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "物語る",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "体现",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "概ね",
+    "yomigana": "おおむね",
+    "japanese_meaning": "",
+    "chinese": "大概",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "色褪せる",
+    "yomigana": "いろあせる",
+    "japanese_meaning": "",
+    "chinese": "褪色",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "定まる",
+    "yomigana": "さだまる",
+    "japanese_meaning": "",
+    "chinese": "稳定、决定",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手厚い",
+    "yomigana": "てあつい",
+    "japanese_meaning": "",
+    "chinese": "周到的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "片隅",
+    "yomigana": "かたすみ",
+    "japanese_meaning": "",
+    "chinese": "角落",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "脆い",
+    "yomigana": "もろい",
+    "japanese_meaning": "",
+    "chinese": "脆弱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "聞き分ける",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "听出来",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "疲れ果てる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "精疲力尽",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "幸福",
+    "yomigana": "こうふく",
+    "japanese_meaning": "",
+    "chinese": "",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "充足",
+    "yomigana": "じゅうそく",
+    "japanese_meaning": "",
+    "chinese": "",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "最善を尽くす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "尽最大努力",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "寄与する",
+    "yomigana": "きよする",
+    "japanese_meaning": "",
+    "chinese": "有助于",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "に変える",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "将...转化为",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "即ち",
+    "yomigana": "すなわち",
+    "japanese_meaning": "",
+    "chinese": "也就是",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "促す",
+    "yomigana": "うながす",
+    "japanese_meaning": "",
+    "chinese": "催促",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "保つ",
+    "yomigana": "たもつ",
+    "japanese_meaning": "",
+    "chinese": "保护、保持",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "阻む",
+    "yomigana": "はばむ",
+    "japanese_meaning": "",
+    "chinese": "",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "そそる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "引起、勾起",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "拗れる",
+    "yomigana": "こじれる",
+    "japanese_meaning": "",
+    "chinese": "恶化、复杂化",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お手上げ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "无可奈何、没办法",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "逸れる",
+    "yomigana": "はぐれる",
+    "japanese_meaning": "",
+    "chinese": "走散、错过",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "講じる",
+    "yomigana": "こうじる",
+    "japanese_meaning": "",
+    "chinese": "讲授、谋求",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "生かす",
+    "yomigana": "いかす",
+    "japanese_meaning": "",
+    "chinese": "活用、利用",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "至って",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "非常、极其",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "至る",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "到达",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "至っていない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "还没到达",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "に至って",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "到了...阶段",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "の至だ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "....至极",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "契る",
+    "yomigana": "ちぎる",
+    "japanese_meaning": "",
+    "chinese": "海誓山盟",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕組む",
+    "yomigana": "しくむ",
+    "japanese_meaning": "",
+    "chinese": "策划、计划、筹划",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕組み",
+    "yomigana": "しくみ",
+    "japanese_meaning": "",
+    "chinese": "结构、机制",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "未だ",
+    "yomigana": "まだ、いまだ",
+    "japanese_meaning": "",
+    "chinese": "尚未、仍旧",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "無茶",
+    "yomigana": "むちゃ",
+    "japanese_meaning": "",
+    "chinese": "乱来",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "似合って",
+    "yomigana": "にあって",
+    "japanese_meaning": "",
+    "chinese": "处于..情况下",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "とあって",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "原因",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "身なり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "穿着打扮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "企む",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "策划、企图",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "下心",
+    "yomigana": "したごころ",
+    "japanese_meaning": "",
+    "chinese": "企图、预谋",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "懐く",
+    "yomigana": "なつく",
+    "japanese_meaning": "",
+    "chinese": "亲近、喜欢",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "頑な",
+    "yomigana": "かたくな",
+    "japanese_meaning": "",
+    "chinese": "顽固的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "来す",
+    "yomigana": "きたす",
+    "japanese_meaning": "",
+    "chinese": "引起、造成",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "加える",
+    "yomigana": "くわえる",
+    "japanese_meaning": "",
+    "chinese": "増加",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "代償",
+    "yomigana": "だいしょう",
+    "japanese_meaning": "",
+    "chinese": "代价",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "何もかも",
+    "yomigana": "なにもかも",
+    "japanese_meaning": "",
+    "chinese": "全部",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "図る",
+    "yomigana": "はかる",
+    "japanese_meaning": "",
+    "chinese": "策划、谋求",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "延いては",
+    "yomigana": "ひいては",
+    "japanese_meaning": "",
+    "chinese": "进而",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "言い切る",
+    "yomigana": "いいきる",
+    "japanese_meaning": "",
+    "chinese": "断言、断定、说完",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "引き止める",
+    "yomigana": "勒住",
+    "japanese_meaning": "",
+    "chinese": "劝阻、挽留",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "異なる",
+    "yomigana": "ことなる",
+    "japanese_meaning": "",
+    "chinese": "不同、差异",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "後を絶つ",
+    "yomigana": "あとをたつ",
+    "japanese_meaning": "",
+    "chinese": "根除",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "後を絶たない",
+    "yomigana": "あとをたたない",
+    "japanese_meaning": "",
+    "chinese": "不能根除",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "腫れる",
+    "yomigana": "はれる",
+    "japanese_meaning": "",
+    "chinese": "肿胀",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "膨れる",
+    "yomigana": "ふくれる",
+    "japanese_meaning": "",
+    "chinese": "鼓起",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "漏らす",
+    "yomigana": "もらす",
+    "japanese_meaning": "",
+    "chinese": "漏",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "辿り着く",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "好不容易走到",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "躊躇う",
+    "yomigana": "ためらう",
+    "japanese_meaning": "",
+    "chinese": "犹豫",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ずれ込む",
+    "yomigana": "ずれこむ",
+    "japanese_meaning": "",
+    "chinese": "延迟、推迟",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ずばり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "击中要害、一语道破",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "取り次ぐ",
+    "yomigana": "とりつぐ",
+    "japanese_meaning": "",
+    "chinese": "转达",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "粗い",
+    "yomigana": "あらい",
+    "japanese_meaning": "",
+    "chinese": "粗",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "怠ける",
+    "yomigana": "なまける",
+    "japanese_meaning": "",
+    "chinese": "懒散、（真的偷懒）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "怠る",
+    "yomigana": "おこたる",
+    "japanese_meaning": "",
+    "chinese": "怠慢（职责上的疏忽）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "養う",
+    "yomigana": "やしなう",
+    "japanese_meaning": "",
+    "chinese": "养育、喂养",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "却下",
+    "yomigana": "きゃっか",
+    "japanese_meaning": "",
+    "chinese": "驳回",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "渇く",
+    "yomigana": "かわく",
+    "japanese_meaning": "",
+    "chinese": "渴",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "乾く",
+    "yomigana": "かわく",
+    "japanese_meaning": "",
+    "chinese": "干燥、冷淡无感情",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "婿",
+    "yomigana": "むこ",
+    "japanese_meaning": "",
+    "chinese": "女婿",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "危ぶむ",
+    "yomigana": "あやぶむ",
+    "japanese_meaning": "",
+    "chinese": "担心、怀疑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "施す",
+    "yomigana": "ほどこす",
+    "japanese_meaning": "",
+    "chinese": "施舍、施加",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "生じる",
+    "yomigana": "しょうじる",
+    "japanese_meaning": "",
+    "chinese": "产生、生长",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "知ったかぶり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "不懂装懂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "裁量",
+    "yomigana": "さいりょう",
+    "japanese_meaning": "",
+    "chinese": "酌情处理",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "直向き",
+    "yomigana": "ひたむき",
+    "japanese_meaning": "",
+    "chinese": "一个劲的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "控える",
+    "yomigana": "ひかえる",
+    "japanese_meaning": "",
+    "chinese": "控制、制止",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "姿勢",
+    "yomigana": "しせい",
+    "japanese_meaning": "",
+    "chinese": "姿势",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "植物",
+    "yomigana": "しょくぶつ",
+    "japanese_meaning": "",
+    "chinese": "植物",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "食物",
+    "yomigana": "しょくもつ",
+    "japanese_meaning": "",
+    "chinese": "食物",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "馴れる",
+    "yomigana": "なれる",
+    "japanese_meaning": "",
+    "chinese": "驯熟",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "飼う",
+    "yomigana": "かう",
+    "japanese_meaning": "",
+    "chinese": "饲养",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "改めて",
+    "yomigana": "あらためて",
+    "japanese_meaning": "",
+    "chinese": "再次、重新",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "訴える",
+    "yomigana": "うったえる",
+    "japanese_meaning": "",
+    "chinese": "诉讼、控告",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "揉める",
+    "yomigana": "もめる",
+    "japanese_meaning": "",
+    "chinese": "争执",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ハラハラ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "心惊胆战",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "蓋",
+    "yomigana": "ふた",
+    "japanese_meaning": "",
+    "chinese": "盖子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "縛る",
+    "yomigana": "しばる",
+    "japanese_meaning": "",
+    "chinese": "束缚",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "安堵",
+    "yomigana": "あんど",
+    "japanese_meaning": "",
+    "chinese": "放心、安心",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手遅れ",
+    "yomigana": "ておくれ",
+    "japanese_meaning": "",
+    "chinese": "耽误、为时已晚",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "発作",
+    "yomigana": "ほっさ",
+    "japanese_meaning": "",
+    "chinese": "发作",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "削減",
+    "yomigana": "さくげん",
+    "japanese_meaning": "",
+    "chinese": "削减",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "欠ける",
+    "yomigana": "かける",
+    "japanese_meaning": "",
+    "chinese": "缺少",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "填補",
+    "yomigana": "てんぽ",
+    "japanese_meaning": "",
+    "chinese": "补充、填补",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "補填",
+    "yomigana": "ほてん",
+    "japanese_meaning": "",
+    "chinese": "填补、补贴、补偿",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "解れる",
+    "yomigana": "ほぐれる",
+    "japanese_meaning": "",
+    "chinese": "解开、舒畅、平定下来",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "つくづく",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "痛切的、深切的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "めきめき",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "显著的、迅速的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "念願",
+    "yomigana": "ねんがん",
+    "japanese_meaning": "",
+    "chinese": "心愿、愿望",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "おどおど",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "战战兢兢",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "うずうず",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "憋不住、心里发痒",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "捗る",
+    "yomigana": "はかどる",
+    "japanese_meaning": "",
+    "chinese": "进展顺利",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "振り払う",
+    "yomigana": "ふりはらう",
+    "japanese_meaning": "",
+    "chinese": "甩开、摆脱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "か否か",
+    "yomigana": "かいなか",
+    "japanese_meaning": "",
+    "chinese": "是否",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "崩れる",
+    "yomigana": "くずれる",
+    "japanese_meaning": "",
+    "chinese": "崩塌",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "切り離す",
+    "yomigana": "きりはなす",
+    "japanese_meaning": "",
+    "chinese": "切开",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "釣り合う",
+    "yomigana": "つりあう",
+    "japanese_meaning": "",
+    "chinese": "平衡、相称",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "脆弱",
+    "yomigana": "ぜいじゃく",
+    "japanese_meaning": "",
+    "chinese": "脆弱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "誤る",
+    "yomigana": "あやまる",
+    "japanese_meaning": "",
+    "chinese": "错误",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "実を結ぶ",
+    "yomigana": "みをむすぶ",
+    "japanese_meaning": "",
+    "chinese": "取得成果",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "卑下",
+    "yomigana": "ひげ",
+    "japanese_meaning": "",
+    "chinese": "自卑、贬低",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "名词＋はおろか",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "别说....就连.....",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "スクリーン",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "屏幕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "だらしない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "散漫、邋遢、没出息",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "抱く",
+    "yomigana": "だく、いだく",
+    "japanese_meaning": "",
+    "chinese": "拥抱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "無愛想",
+    "yomigana": "ぶあいそう",
+    "japanese_meaning": "",
+    "chinese": "冷淡",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "哀れ",
+    "yomigana": "あわれ",
+    "japanese_meaning": "",
+    "chinese": "悲哀",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見舞う",
+    "yomigana": "みまう",
+    "japanese_meaning": "",
+    "chinese": "探望、看望",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "慕う",
+    "yomigana": "したう",
+    "japanese_meaning": "",
+    "chinese": "爱慕、敬仰",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "格好",
+    "yomigana": "かっこう",
+    "japanese_meaning": "",
+    "chinese": "样子、外形",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "アクセサリー",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "装饰",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ブランケット",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "毯子、毛毯",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "メリット",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "优点、好处",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "デメリット",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "缺点、坏处",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "寄せ合う",
+    "yomigana": "よせあう",
+    "japanese_meaning": "",
+    "chinese": "相互靠近",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "報う",
+    "yomigana": "むくう",
+    "japanese_meaning": "",
+    "chinese": "报答",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "貯める",
+    "yomigana": "ためる",
+    "japanese_meaning": "",
+    "chinese": "储蓄、存钱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "贖う",
+    "yomigana": "あがなう",
+    "japanese_meaning": "",
+    "chinese": "抵偿、赎罪",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見込み",
+    "yomigana": "みこみ",
+    "japanese_meaning": "",
+    "chinese": "希望、预料",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "しぶとい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "顽强的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "親しい",
+    "yomigana": "したしい",
+    "japanese_meaning": "",
+    "chinese": "亲切、亲密",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "孕む",
+    "yomigana": "はらむ",
+    "japanese_meaning": "",
+    "chinese": "怀孕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "摘む",
+    "yomigana": "つむ",
+    "japanese_meaning": "",
+    "chinese": "采、摘",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "身勝手",
+    "yomigana": "みがって",
+    "japanese_meaning": "",
+    "chinese": "自私",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "目眩",
+    "yomigana": "めまい",
+    "japanese_meaning": "",
+    "chinese": "眩暈、头晕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "鍋",
+    "yomigana": "なべ",
+    "japanese_meaning": "",
+    "chinese": "火锅",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手分け",
+    "yomigana": "てわけ",
+    "japanese_meaning": "",
+    "chinese": "分头（做某事）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "沈む",
+    "yomigana": "しずむ",
+    "japanese_meaning": "",
+    "chinese": "沉下、沉没",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "において",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "在....地点/时候/方面",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "疎か",
+    "yomigana": "おろそか",
+    "japanese_meaning": "",
+    "chinese": "疏忽",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "揉み合う",
+    "yomigana": "もみあう",
+    "japanese_meaning": "",
+    "chinese": "互相推挤",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "該当",
+    "yomigana": "がいとう",
+    "japanese_meaning": "",
+    "chinese": "符合",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "所謂",
+    "yomigana": "いわゆる",
+    "japanese_meaning": "",
+    "chinese": "所谓",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "引き換える",
+    "yomigana": "ひきかえる",
+    "japanese_meaning": "",
+    "chinese": "兑换",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "置き換える",
+    "yomigana": "おきかえる",
+    "japanese_meaning": "",
+    "chinese": "挪到（位置）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "差し替える",
+    "yomigana": "さしかえる",
+    "japanese_meaning": "",
+    "chinese": "替换",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "着替える",
+    "yomigana": "きがえる",
+    "japanese_meaning": "",
+    "chinese": "换衣服",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "病",
+    "yomigana": "やまい",
+    "japanese_meaning": "",
+    "chinese": "病",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "朦朧",
+    "yomigana": "もうろう",
+    "japanese_meaning": "",
+    "chinese": "模糊不清",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "もがく",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "挣扎",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "機能",
+    "yomigana": "きのう",
+    "japanese_meaning": "",
+    "chinese": "功能",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "あらゆる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "全部、所有",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "与える",
+    "yomigana": "あたえる",
+    "japanese_meaning": "",
+    "chinese": "给予",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "あるまじき",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "不应该有的",
+    "pinyin": "",
+    "chinese_meaning": "行为"
+  },
+  {
+    "japanese": "労わる",
+    "yomigana": "いたわる",
+    "japanese_meaning": "",
+    "chinese": "安慰、怜悯",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "過言",
+    "yomigana": "かごん",
+    "japanese_meaning": "",
+    "chinese": "夸张、说的过火",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "塗れる",
+    "yomigana": "まみれる",
+    "japanese_meaning": "",
+    "chinese": "沾满全身",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "果物",
+    "yomigana": "くだもの",
+    "japanese_meaning": "",
+    "chinese": "水果",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "刻む",
+    "yomigana": "きざむ",
+    "japanese_meaning": "",
+    "chinese": "雕刻、剁碎",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "出し抜く",
+    "yomigana": "だしぬく",
+    "japanese_meaning": "",
+    "chinese": "先下手",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "攫う",
+    "yomigana": "さらう",
+    "japanese_meaning": "",
+    "chinese": "抢走、拐走",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "辟易",
+    "yomigana": "へきえき",
+    "japanese_meaning": "",
+    "chinese": "为难、束手无策",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "惑わす",
+    "yomigana": "まどわす",
+    "japanese_meaning": "",
+    "chinese": "蛊惑、诱惑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "葛藤",
+    "yomigana": "かっとう",
+    "japanese_meaning": "",
+    "chinese": "纠葛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "括る",
+    "yomigana": "くくる",
+    "japanese_meaning": "",
+    "chinese": "捆扎、总结/总括",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "馳せる",
+    "yomigana": "はせる",
+    "japanese_meaning": "",
+    "chinese": "奔驰",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "名を馳せる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "驰名",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "突き止める",
+    "yomigana": "つきとめる",
+    "japanese_meaning": "",
+    "chinese": "追查、追究",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思い切り",
+    "yomigana": "おもいきり",
+    "japanese_meaning": "",
+    "chinese": "尽情的、断念",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思いっきり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "尽情的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "淑やか",
+    "yomigana": "しとやか",
+    "japanese_meaning": "",
+    "chinese": "端庄、娴静",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "言い訳",
+    "yomigana": "いいわけ",
+    "japanese_meaning": "",
+    "chinese": "借口",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "借家",
+    "yomigana": "しゃくや",
+    "japanese_meaning": "",
+    "chinese": "租房",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "果たす",
+    "yomigana": "はたす",
+    "japanese_meaning": "",
+    "chinese": "完成、实现",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "結ぶ",
+    "yomigana": "むすぶ",
+    "japanese_meaning": "",
+    "chinese": "结合、连结",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "巧み",
+    "yomigana": "たくみ",
+    "japanese_meaning": "",
+    "chinese": "巧妙",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "痩せる",
+    "yomigana": "やせる",
+    "japanese_meaning": "",
+    "chinese": "瘦、贫瘠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "熱血",
+    "yomigana": "ねっけつ",
+    "japanese_meaning": "",
+    "chinese": "热血",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "一助",
+    "yomigana": "いちじょ",
+    "japanese_meaning": "",
+    "chinese": "一点儿帮助",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "乗り切る",
+    "yomigana": "のりきる",
+    "japanese_meaning": "",
+    "chinese": "越过、渡过",
+    "pinyin": "",
+    "chinese_meaning": "难关"
+  },
+  {
+    "japanese": "アドバンスド",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "高等的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "童貞",
+    "yomigana": "どうてい",
+    "japanese_meaning": "",
+    "chinese": "童貞",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "貫禄",
+    "yomigana": "かんろく",
+    "japanese_meaning": "",
+    "chinese": "尊严",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "火鍋",
+    "yomigana": "ひなべ",
+    "japanese_meaning": "",
+    "chinese": "火鍋",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "火蓋を切る",
+    "yomigana": "ひぶたをきる",
+    "japanese_meaning": "",
+    "chinese": "拉开序幕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "爛れる",
+    "yomigana": "ただれる",
+    "japanese_meaning": "",
+    "chinese": "溃烂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "拭く",
+    "yomigana": "ふく",
+    "japanese_meaning": "",
+    "chinese": "抹、擦",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "占める",
+    "yomigana": "しめる",
+    "japanese_meaning": "",
+    "chinese": "占有",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "くじ引き",
+    "yomigana": "くじびき",
+    "japanese_meaning": "",
+    "chinese": "抽签",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "目を瞑る",
+    "yomigana": "めをつぶる",
+    "japanese_meaning": "",
+    "chinese": "闭眼",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "面喰い",
+    "yomigana": "めんくい",
+    "japanese_meaning": "",
+    "chinese": "颜控",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "捉える",
+    "yomigana": "とらえる",
+    "japanese_meaning": "",
+    "chinese": "捕捉",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "背負う",
+    "yomigana": "せおう",
+    "japanese_meaning": "",
+    "chinese": "背负",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "覆す",
+    "yomigana": "くつがえす",
+    "japanese_meaning": "",
+    "chinese": "颠覆",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "再考",
+    "yomigana": "さいこう",
+    "japanese_meaning": "",
+    "chinese": "重新考虑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "昨今",
+    "yomigana": "さっこん",
+    "japanese_meaning": "",
+    "chinese": "最近",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ふしだら",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "放荡",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "中出し",
+    "yomigana": "なかだし",
+    "japanese_meaning": "",
+    "chinese": "中出",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "忍び込む",
+    "yomigana": "しのびこむ",
+    "japanese_meaning": "",
+    "chinese": "悄悄进入",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "潜る",
+    "yomigana": "もぐる",
+    "japanese_meaning": "",
+    "chinese": "潜水、潜入",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "除いて",
+    "yomigana": "のぞいて",
+    "japanese_meaning": "",
+    "chinese": "除....之外",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "茜",
+    "yomigana": "あかね",
+    "japanese_meaning": "",
+    "chinese": "茜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "コンクール",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "竞赛",
+    "pinyin": "",
+    "chinese_meaning": "音乐或者艺术的"
+  },
+  {
+    "japanese": "足かせ",
+    "yomigana": "あしかせ",
+    "japanese_meaning": "",
+    "chinese": "累赘、脚镣",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "尊い",
+    "yomigana": "とうとい",
+    "japanese_meaning": "",
+    "chinese": "珍贵",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "過ち",
+    "yomigana": "あやまち",
+    "japanese_meaning": "",
+    "chinese": "过失、过错",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "休止",
+    "yomigana": "きゅうし",
+    "japanese_meaning": "",
+    "chinese": "停止、停歇",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手本",
+    "yomigana": "てほん",
+    "japanese_meaning": "",
+    "chinese": "榜样、字帖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "通りすがり",
+    "yomigana": "とおりすがり",
+    "japanese_meaning": "",
+    "chinese": "路过",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "辺鄙",
+    "yomigana": "へんぴ",
+    "japanese_meaning": "",
+    "chinese": "偏僻",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "汚い",
+    "yomigana": "きたない",
+    "japanese_meaning": "",
+    "chinese": "肮脏",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "凌ぐ",
+    "yomigana": "しのぐ",
+    "japanese_meaning": "",
+    "chinese": "抵御、应付",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "示す",
+    "yomigana": "しめす",
+    "japanese_meaning": "",
+    "chinese": "表示、出示",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "釈然",
+    "yomigana": "しゃくぜん",
+    "japanese_meaning": "",
+    "chinese": "释然、释怀",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "狐",
+    "yomigana": "きつね",
+    "japanese_meaning": "",
+    "chinese": "狐狸、狡猾",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "司会者",
+    "yomigana": "しかいしゃ",
+    "japanese_meaning": "",
+    "chinese": "主持人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "秘める",
+    "yomigana": "ひめる",
+    "japanese_meaning": "",
+    "chinese": "隐瞒",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "田舎",
+    "yomigana": "いなか",
+    "japanese_meaning": "",
+    "chinese": "农村、乡下、故乡",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "受講",
+    "yomigana": "じゅこう",
+    "japanese_meaning": "",
+    "chinese": "听讲、受训",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "中でも",
+    "yomigana": "なかでも",
+    "japanese_meaning": "",
+    "chinese": "尤其",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "適当",
+    "yomigana": "てきとう",
+    "japanese_meaning": "",
+    "chinese": "适当、敷衍",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "自力",
+    "yomigana": "じりき",
+    "japanese_meaning": "",
+    "chinese": "靠自己的力量",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "達する",
+    "yomigana": "たっする",
+    "japanese_meaning": "",
+    "chinese": "达到、到达",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "言いそびれる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "未能说出",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "さらっと",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "爽快",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "僅か",
+    "yomigana": "わずか",
+    "japanese_meaning": "",
+    "chinese": "仅仅一点点",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "握り締める",
+    "yomigana": "にぎりしめる",
+    "japanese_meaning": "",
+    "chinese": "紧握",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思い入れ",
+    "yomigana": "おもいいれ",
+    "japanese_meaning": "",
+    "chinese": "心思",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "辛子",
+    "yomigana": "からし",
+    "japanese_meaning": "",
+    "chinese": "芥末",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ワサビ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "芥末",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "眼差し",
+    "yomigana": "まなざし",
+    "japanese_meaning": "",
+    "chinese": "目光、眼神",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "勝ち目",
+    "yomigana": "かちめ",
+    "japanese_meaning": "",
+    "chinese": "胜算",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "操縦",
+    "yomigana": "そうじゅう",
+    "japanese_meaning": "",
+    "chinese": "驾驶、操纵",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "乳",
+    "yomigana": "ちち",
+    "japanese_meaning": "",
+    "chinese": "乳房、奶水",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "カビが生(は)える",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "发霉",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "乳首",
+    "yomigana": "ちくび",
+    "japanese_meaning": "",
+    "chinese": "乳头",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "弔う",
+    "yomigana": "とむらう",
+    "japanese_meaning": "",
+    "chinese": "吊唁、祭奠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "捲る",
+    "yomigana": "めくる",
+    "japanese_meaning": "",
+    "chinese": "掀起、翻开",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "髭",
+    "yomigana": "ひげ",
+    "japanese_meaning": "",
+    "chinese": "胡子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "気まぐれ",
+    "yomigana": "きまぐれ",
+    "japanese_meaning": "",
+    "chinese": "心情浮躁、心血来潮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "キャバ嬢",
+    "yomigana": "きゃばじょう",
+    "japanese_meaning": "",
+    "chinese": "陪酒女",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "大喜利",
+    "yomigana": "おおぎり",
+    "japanese_meaning": "",
+    "chinese": "幽默问答",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "占い",
+    "yomigana": "うらない",
+    "japanese_meaning": "",
+    "chinese": "占卜、算命",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "占い師",
+    "yomigana": "うらないし",
+    "japanese_meaning": "",
+    "chinese": "占卜师",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "星占い",
+    "yomigana": "ほしうらない",
+    "japanese_meaning": "",
+    "chinese": "占星",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "麻酔",
+    "yomigana": "ますい",
+    "japanese_meaning": "",
+    "chinese": "麻醉",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "嘲笑う",
+    "yomigana": "あざわらう",
+    "japanese_meaning": "",
+    "chinese": "嘲笑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "混ぜる",
+    "yomigana": "まぜる",
+    "japanese_meaning": "",
+    "chinese": "搅拌、混合、插嘴",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お小遣い",
+    "yomigana": "おこづかい",
+    "japanese_meaning": "",
+    "chinese": "零花钱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ずらす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "挪动、错开、改变角度",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "まして",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "更不用说",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "物差し",
+    "yomigana": "ものさし",
+    "japanese_meaning": "",
+    "chinese": "尺子、尺度标准",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "讃える",
+    "yomigana": "たたえる",
+    "japanese_meaning": "",
+    "chinese": "称赞、赞颂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "追跡",
+    "yomigana": "ついせき",
+    "japanese_meaning": "",
+    "chinese": "追踪",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "豊か",
+    "yomigana": "ゆたか",
+    "japanese_meaning": "",
+    "chinese": "丰富",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "転がり込む",
+    "yomigana": "ころがりこむ",
+    "japanese_meaning": "",
+    "chinese": "投靠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "難破船",
+    "yomigana": "なんぱせん",
+    "japanese_meaning": "",
+    "chinese": "遇难船",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "うつ病",
+    "yomigana": "うつびょう",
+    "japanese_meaning": "",
+    "chinese": "抑郁症",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "相槌",
+    "yomigana": "あいづち",
+    "japanese_meaning": "",
+    "chinese": "附和、帮腔",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "付き纏う",
+    "yomigana": "つきまとう",
+    "japanese_meaning": "",
+    "chinese": "纠缠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "種まき",
+    "yomigana": "たねまき",
+    "japanese_meaning": "",
+    "chinese": "播种",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "立ち寄る",
+    "yomigana": "たちよる",
+    "japanese_meaning": "",
+    "chinese": "靠近、顺路到",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見覚え",
+    "yomigana": "みおぼえ",
+    "japanese_meaning": "",
+    "chinese": "仿佛见过",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "攻める",
+    "yomigana": "せめる",
+    "japanese_meaning": "",
+    "chinese": "攻击",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手柄",
+    "yomigana": "てがら",
+    "japanese_meaning": "",
+    "chinese": "功劳、功勋、功绩",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "貧しい",
+    "yomigana": "まずしい",
+    "japanese_meaning": "",
+    "chinese": "贫穷",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "反論",
+    "yomigana": "はんろん",
+    "japanese_meaning": "",
+    "chinese": "反驳、顶嘴",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "生意気",
+    "yomigana": "なまいき",
+    "japanese_meaning": "",
+    "chinese": "自大、傲慢",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "揶揄",
+    "yomigana": "やゆ",
+    "japanese_meaning": "",
+    "chinese": "嘲讽、嘲笑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ちくり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "冷不防的刺一下",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "オチ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "笑点",
+    "pinyin": "",
+    "chinese_meaning": "指某个故事的结局笑点"
+  },
+  {
+    "japanese": "見境",
+    "yomigana": "みさかい",
+    "japanese_meaning": "",
+    "chinese": "分辨、界限",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "有様",
+    "yomigana": "ありさま",
+    "japanese_meaning": "",
+    "chinese": "样子、情况",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "些か",
+    "yomigana": "いささか",
+    "japanese_meaning": "",
+    "chinese": "稍微",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "取り分け",
+    "yomigana": "とりわけ",
+    "japanese_meaning": "",
+    "chinese": "格外",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "微笑ましい",
+    "yomigana": "ほほえましい",
+    "japanese_meaning": "",
+    "chinese": "使人欣慰",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "幅",
+    "yomigana": "はば",
+    "japanese_meaning": "",
+    "chinese": "宽度、幅度、差距",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "著しい",
+    "yomigana": "いちじるしい",
+    "japanese_meaning": "",
+    "chinese": "显著的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "とらえる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "捕捉、看作",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "芽生える",
+    "yomigana": "めばえる",
+    "japanese_meaning": "",
+    "chinese": "发芽",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "煩わしい",
+    "yomigana": "わずらわしい",
+    "japanese_meaning": "",
+    "chinese": "麻烦的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "明かす",
+    "yomigana": "あかす",
+    "japanese_meaning": "",
+    "chinese": "揭露、过夜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "暴く",
+    "yomigana": "あばく",
+    "japanese_meaning": "",
+    "chinese": "挖掘、揭露",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "導く",
+    "yomigana": "みちびく",
+    "japanese_meaning": "",
+    "chinese": "引导、导向、领路",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "滑らか",
+    "yomigana": "なめらか",
+    "japanese_meaning": "",
+    "chinese": "光滑、滑润",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "スイーツ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "甜点",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "卵白",
+    "yomigana": "らんぱく",
+    "japanese_meaning": "",
+    "chinese": "蛋白",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "膜",
+    "yomigana": "まく",
+    "japanese_meaning": "",
+    "chinese": "膜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "皮",
+    "yomigana": "かわ",
+    "japanese_meaning": "",
+    "chinese": "皮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "あっさり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "清淡、朴素、简单",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "布団",
+    "yomigana": "ふとん",
+    "japanese_meaning": "",
+    "chinese": "被子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "人肌恋しい",
+    "yomigana": "ひとはだこいしい",
+    "japanese_meaning": "",
+    "chinese": "希望有人陪伴",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "淵",
+    "yomigana": "ふち",
+    "japanese_meaning": "",
+    "chinese": "深渊",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お餅",
+    "yomigana": "おもち",
+    "japanese_meaning": "",
+    "chinese": "年糕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "牡蠣",
+    "yomigana": "かき",
+    "japanese_meaning": "",
+    "chinese": "生蚝",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "やり目",
+    "yomigana": "やりもく",
+    "japanese_meaning": "",
+    "chinese": "以做爱为目的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "小作員",
+    "yomigana": "こさくいん",
+    "japanese_meaning": "",
+    "chinese": "间谍",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "煮る",
+    "yomigana": "にる",
+    "japanese_meaning": "",
+    "chinese": "煮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "煮込む",
+    "yomigana": "にこむ",
+    "japanese_meaning": "",
+    "chinese": "炖煮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "毎に",
+    "yomigana": "ごとに",
+    "japanese_meaning": "",
+    "chinese": "每隔....（一定时间）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "表す",
+    "yomigana": "あらわす",
+    "japanese_meaning": "",
+    "chinese": "表达、表示",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "何らか",
+    "yomigana": "なにらか",
+    "japanese_meaning": "",
+    "chinese": "某种、某些",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "整える",
+    "yomigana": "ととのえる",
+    "japanese_meaning": "",
+    "chinese": "整理、准备",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "揃う",
+    "yomigana": "そろう",
+    "japanese_meaning": "",
+    "chinese": "齐全、到齐",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "揃える",
+    "yomigana": "そろえる",
+    "japanese_meaning": "",
+    "chinese": "使...齐全整齐",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "年中無休",
+    "yomigana": "ねんじゅうむきゅう",
+    "japanese_meaning": "",
+    "chinese": "全年无休",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "棒に振る",
+    "yomigana": "ぼうにふる",
+    "japanese_meaning": "",
+    "chinese": "白白浪费、断送",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ブランド",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "品牌",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ニキビ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "面皰、痘痘",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ニキビ隠しシール",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "痘痘贴",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "唇",
+    "yomigana": "くちびる",
+    "japanese_meaning": "",
+    "chinese": "嘴唇",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "三日坊主",
+    "yomigana": "みっかぼうず",
+    "japanese_meaning": "",
+    "chinese": "三天打鱼",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "湯気",
+    "yomigana": "ゆげ",
+    "japanese_meaning": "",
+    "chinese": "蒸汽、热气",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "彼方",
+    "yomigana": "かなた",
+    "japanese_meaning": "",
+    "chinese": "那边",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "選択科目",
+    "yomigana": "せんたくかもく",
+    "japanese_meaning": "",
+    "chinese": "选修课",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "溺れる",
+    "yomigana": "おぼれる",
+    "japanese_meaning": "",
+    "chinese": "溺水、沉溺",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "目立つ",
+    "yomigana": "めだつ",
+    "japanese_meaning": "",
+    "chinese": "显眼",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕草",
+    "yomigana": "しぐさ",
+    "japanese_meaning": "",
+    "chinese": "行为举止",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "フードロス",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "食品浪费",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ブラインドボックス",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "盲盒",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ひたすら",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "一味、一个劲儿",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "悪戯",
+    "yomigana": "いたずら",
+    "japanese_meaning": "",
+    "chinese": "恶作剧",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "掴む",
+    "yomigana": "つかむ",
+    "japanese_meaning": "",
+    "chinese": "紧紧抓住",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "渋滞",
+    "yomigana": "じゅうたい",
+    "japanese_meaning": "",
+    "chinese": "堵车、拥挤",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "築く",
+    "yomigana": "きずく",
+    "japanese_meaning": "",
+    "chinese": "构筑、建立",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "看取る",
+    "yomigana": "みとる",
+    "japanese_meaning": "",
+    "chinese": "看护、护理（病人）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "気が紛れる",
+    "yomigana": "きがまぎれる",
+    "japanese_meaning": "",
+    "chinese": "消愁",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ぼちぼち",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "慢慢的、一点一点、还行",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "熱心",
+    "yomigana": "ねっしん",
+    "japanese_meaning": "",
+    "chinese": "热心、热诚",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "無難",
+    "yomigana": "ぶなん",
+    "japanese_meaning": "",
+    "chinese": "稳妥、无灾无难",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "割れる",
+    "yomigana": "われる",
+    "japanese_meaning": "",
+    "chinese": "破裂、碎裂、暴露",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "待遇",
+    "yomigana": "たいぐう",
+    "japanese_meaning": "",
+    "chinese": "待遇",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "解き明かす",
+    "yomigana": "ときあかす",
+    "japanese_meaning": "",
+    "chinese": "说明解明",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "償う",
+    "yomigana": "つぐなう",
+    "japanese_meaning": "",
+    "chinese": "赔偿、赎罪",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "働き口",
+    "yomigana": "はたらきぐち",
+    "japanese_meaning": "",
+    "chinese": "工作",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "縺れる",
+    "yomigana": "もつれる",
+    "japanese_meaning": "",
+    "chinese": "纠缠（物理上）、纠纷",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "在り来たり",
+    "yomigana": "ありきたり",
+    "japanese_meaning": "",
+    "chinese": "平庸、老套",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "逞しい",
+    "yomigana": "たくましい",
+    "japanese_meaning": "",
+    "chinese": "旺盛、坚强",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ややこしい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "复杂、麻烦",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "やけ酒",
+    "yomigana": "やけざけ",
+    "japanese_meaning": "",
+    "chinese": "喝闷酒",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "おでん",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "关东煮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思わず",
+    "yomigana": "おもわず",
+    "japanese_meaning": "",
+    "chinese": "禁不住、不由得",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "にんにく",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "大蒜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "鍛える",
+    "yomigana": "きたえる",
+    "japanese_meaning": "",
+    "chinese": "锻炼、锻造",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "セレクト",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "选择",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "キムチ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "泡菜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "カウンター",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "吧台",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "なりとも",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "不论......",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "まがりなりにも",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "好歹",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "なんでもかんでも",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "什么都.....（责怪）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "その分だけ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "相应的、同等程度的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "どうにかして",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "不论如何也要",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "請け負う",
+    "yomigana": "うけおう",
+    "japanese_meaning": "",
+    "chinese": "承接（任务）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "納品",
+    "yomigana": "のうひん",
+    "japanese_meaning": "",
+    "chinese": "交付（货物）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "問答無用",
+    "yomigana": "もんどうむよう",
+    "japanese_meaning": "",
+    "chinese": "无需多言",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "突き当たり",
+    "yomigana": "つきあたり",
+    "japanese_meaning": "",
+    "chinese": "碰上、尽头",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見下す",
+    "yomigana": "みくだす",
+    "japanese_meaning": "",
+    "chinese": "看不起、藐视",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "白日夢",
+    "yomigana": "はくじつむ",
+    "japanese_meaning": "",
+    "chinese": "白日梦",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "照れる",
+    "yomigana": "てれる",
+    "japanese_meaning": "",
+    "chinese": "害羞",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "断捨離",
+    "yomigana": "だんしゃり",
+    "japanese_meaning": "",
+    "chinese": "断舍离",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "グラフィックス",
+    "yomigana": "graphics",
+    "japanese_meaning": "",
+    "chinese": "图像",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ヘッドハンター",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "猎头",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "つまみ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "下酒菜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "引き裂く",
+    "yomigana": "ひきさく",
+    "japanese_meaning": "",
+    "chinese": "撕裂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "アイテム",
+    "yomigana": "item",
+    "japanese_meaning": "",
+    "chinese": "物品、道具",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "キーホルダー",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "钥匙圈",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "自ら",
+    "yomigana": "みずから",
+    "japanese_meaning": "",
+    "chinese": "亲自、自己",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手にかける",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "照顾、照料",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手にかかる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "杀害",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "しばく",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "揍",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "しばき回す",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "揍个不停、揍扁",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "段取り",
+    "yomigana": "だんどり",
+    "japanese_meaning": "",
+    "chinese": "安排、顺序",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "蒸す",
+    "yomigana": "むす",
+    "japanese_meaning": "",
+    "chinese": "蒸",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕入れる",
+    "yomigana": "しいれる",
+    "japanese_meaning": "",
+    "chinese": "购入、取得",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "バングル",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "手环、手镯",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "赴く",
+    "yomigana": "おもむく",
+    "japanese_meaning": "",
+    "chinese": "奔赴、倾向",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "に準ずる",
+    "yomigana": "にじゅんずる",
+    "japanese_meaning": "",
+    "chinese": "以....为标准",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ノスタルジア",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "乡愁",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "かけご飯",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": ".....拌饭",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ヤンデレ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "病娇",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "痕跡",
+    "yomigana": "こんせき",
+    "japanese_meaning": "",
+    "chinese": "痕迹",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "差出人",
+    "yomigana": "さしだしにん",
+    "japanese_meaning": "",
+    "chinese": "寄件人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "取り合う",
+    "yomigana": "とりあう",
+    "japanese_meaning": "",
+    "chinese": "争夺、理睬",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "振り解く",
+    "yomigana": "ふりほどく",
+    "japanese_meaning": "",
+    "chinese": "甩开、挣脱开",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "対岸",
+    "yomigana": "たいがん",
+    "japanese_meaning": "",
+    "chinese": "对岸",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "口ずさむ",
+    "yomigana": "くちずさむ",
+    "japanese_meaning": "",
+    "chinese": "哼、吟、诵",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "巫女",
+    "yomigana": "みこ",
+    "japanese_meaning": "",
+    "chinese": "巫女",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手を組む",
+    "yomigana": "てをくむ",
+    "japanese_meaning": "",
+    "chinese": "合作、手挽手",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "呼び捨て",
+    "yomigana": "よびすて",
+    "japanese_meaning": "",
+    "chinese": "直呼其名",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思い込む",
+    "yomigana": "おもいこむ",
+    "japanese_meaning": "",
+    "chinese": "深信、确信",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "単なる",
+    "yomigana": "たんなる",
+    "japanese_meaning": "",
+    "chinese": "仅仅、只是",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "番人",
+    "yomigana": "ばんにん",
+    "japanese_meaning": "",
+    "chinese": "看守、值班人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "露",
+    "yomigana": "あらわ",
+    "japanese_meaning": "",
+    "chinese": "显露",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ウンザリ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "厌烦、腻",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "膨らむ",
+    "yomigana": "ふくらむ",
+    "japanese_meaning": "",
+    "chinese": "膨胀、鼓起",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "謎めく",
+    "yomigana": "なぞめく",
+    "japanese_meaning": "",
+    "chinese": "神秘",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "謎めいた雰囲気",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "神秘的气氛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "支障",
+    "yomigana": "ししょう",
+    "japanese_meaning": "",
+    "chinese": "障碍、妨碍、故障",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "滞在",
+    "yomigana": "たいざい",
+    "japanese_meaning": "",
+    "chinese": "停留、逗留",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "初",
+    "yomigana": "うぶ",
+    "japanese_meaning": "",
+    "chinese": "纯真",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "敷居",
+    "yomigana": "しきい",
+    "japanese_meaning": "",
+    "chinese": "门槛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "苛む",
+    "yomigana": "さいなむ",
+    "japanese_meaning": "",
+    "chinese": "虐待、折磨",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "取り寄せる",
+    "yomigana": "とりよせる",
+    "japanese_meaning": "",
+    "chinese": "要来、送来",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕える",
+    "yomigana": "つかえる",
+    "japanese_meaning": "",
+    "chinese": "侍奉、伺候",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "言い寄る",
+    "yomigana": "いいよる",
+    "japanese_meaning": "",
+    "chinese": "求爱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "突如",
+    "yomigana": "とつじょ",
+    "japanese_meaning": "",
+    "chinese": "突然",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "松明",
+    "yomigana": "たいまつ",
+    "japanese_meaning": "",
+    "chinese": "火把、火炬",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "モチーフ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "主题元素",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "正気",
+    "yomigana": "しょうき",
+    "japanese_meaning": "",
+    "chinese": "意识、神智",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "拘る",
+    "yomigana": "こだわる",
+    "japanese_meaning": "",
+    "chinese": "拘泥",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "汁",
+    "yomigana": "じる",
+    "japanese_meaning": "",
+    "chinese": "汤、（也可以是スープ）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ピラミッド",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "金字塔",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "軽率",
+    "yomigana": "けいそつ",
+    "japanese_meaning": "",
+    "chinese": "轻率",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "聖なる",
+    "yomigana": "せいなる",
+    "japanese_meaning": "",
+    "chinese": "神圣",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "削る",
+    "yomigana": "けずる",
+    "japanese_meaning": "",
+    "chinese": "削减、减去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "寛ぐ",
+    "yomigana": "くつろぐ",
+    "japanese_meaning": "",
+    "chinese": "舒畅、惬意",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "明らか",
+    "yomigana": "あきらか",
+    "japanese_meaning": "",
+    "chinese": "明亮、显然",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "生臭い",
+    "yomigana": "なまぐさい",
+    "japanese_meaning": "",
+    "chinese": "腥臭",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "水臭い",
+    "yomigana": "みずくさい",
+    "japanese_meaning": "",
+    "chinese": "见外",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "青臭い",
+    "yomigana": "あおくさい",
+    "japanese_meaning": "",
+    "chinese": "青涩、乳臭未干",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "コラボ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "联名",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "擦る",
+    "yomigana": "こする",
+    "japanese_meaning": "",
+    "chinese": "擦、揉搓",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "味見",
+    "yomigana": "あじみ",
+    "japanese_meaning": "",
+    "chinese": "尝口味",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "淹れる",
+    "yomigana": "いれる",
+    "japanese_meaning": "",
+    "chinese": "沏、泡（茶饮）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "取り下げる",
+    "yomigana": "とりさげる",
+    "japanese_meaning": "",
+    "chinese": "撤销、撤回",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "心労",
+    "yomigana": "しんろう",
+    "japanese_meaning": "",
+    "chinese": "操心、操劳",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "細い",
+    "yomigana": "ほそい",
+    "japanese_meaning": "",
+    "chinese": "纤细",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "おやつ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "点心、下午茶",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "コンプレックス",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "情节、复合体、自卑感",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "撒き散らす",
+    "yomigana": "まきちらす",
+    "japanese_meaning": "",
+    "chinese": "挥洒、散布",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "徘徊",
+    "yomigana": "はいかい",
+    "japanese_meaning": "",
+    "chinese": "徘徊",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "最期",
+    "yomigana": "さいご",
+    "japanese_meaning": "",
+    "chinese": "临终",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "後ろめたい",
+    "yomigana": "うしろめたい",
+    "japanese_meaning": "",
+    "chinese": "内疚",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "回り込む",
+    "yomigana": "まわりこむ",
+    "japanese_meaning": "",
+    "chinese": "绕到背后去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "偽る",
+    "yomigana": "いつわる",
+    "japanese_meaning": "",
+    "chinese": "假装、说谎、歪曲",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "称す",
+    "yomigana": "しょうす",
+    "japanese_meaning": "",
+    "chinese": "假称、称赞",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "塞ぐ",
+    "yomigana": "ふさぐ",
+    "japanese_meaning": "",
+    "chinese": "郁闷、堵塞",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "清める",
+    "yomigana": "きよめる",
+    "japanese_meaning": "",
+    "chinese": "洗净",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "気休め",
+    "yomigana": "きやすめ",
+    "japanese_meaning": "",
+    "chinese": "暂时安心（安慰）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "返答",
+    "yomigana": "へんとう",
+    "japanese_meaning": "",
+    "chinese": "回答",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "無闇",
+    "yomigana": "むやみ",
+    "japanese_meaning": "",
+    "chinese": "胡乱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "唸る",
+    "yomigana": "うなる",
+    "japanese_meaning": "",
+    "chinese": "呻吟、吼叫",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "うなされる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "因噩梦而呻吟（特殊被动型）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ほっとする",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "放心",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "強者",
+    "yomigana": "つわもの",
+    "japanese_meaning": "",
+    "chinese": "強者",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "有り触れる",
+    "yomigana": "ありふれる",
+    "japanese_meaning": "",
+    "chinese": "常有、常见",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "がっぽがっぽ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "形容大量赚钱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "皮肉",
+    "yomigana": "ひにく",
+    "japanese_meaning": "",
+    "chinese": "嘲讽、挖苦",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "噛む",
+    "yomigana": "かむ",
+    "japanese_meaning": "",
+    "chinese": "咬、咀嚼、拍打",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ナーバス",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "紧张、焦虑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "都度",
+    "yomigana": "つど",
+    "japanese_meaning": "",
+    "chinese": "每次",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "イラスト",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "插画",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "追い詰める",
+    "yomigana": "おいつめる",
+    "japanese_meaning": "",
+    "chinese": "逼到绝境",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "もどかしい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "令人着急",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "古めかしい",
+    "yomigana": "ふるめかしい",
+    "japanese_meaning": "",
+    "chinese": "陈旧的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "枠組み",
+    "yomigana": "わくぐみ",
+    "japanese_meaning": "",
+    "chinese": "框架、结构",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "しゃがむ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "蹲",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "纏わる",
+    "yomigana": "まつわる",
+    "japanese_meaning": "",
+    "chinese": "纠缠、缠绕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "厳か",
+    "yomigana": "おごそか",
+    "japanese_meaning": "",
+    "chinese": "严肃、庄严",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "生涯",
+    "yomigana": "しょうがい",
+    "japanese_meaning": "",
+    "chinese": "生涯、一生",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "不向き",
+    "yomigana": "ふむき",
+    "japanese_meaning": "",
+    "chinese": "不合适",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "もの思う",
+    "yomigana": "ものおもう",
+    "japanese_meaning": "",
+    "chinese": "沉思、忧虑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "操る",
+    "yomigana": "あやつる",
+    "japanese_meaning": "",
+    "chinese": "操纵、掌握",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "そそっかしい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "冒冒失失",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "聞き捨てる",
+    "yomigana": "ききすてる",
+    "japanese_meaning": "",
+    "chinese": "听而不理",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "賢い",
+    "yomigana": "かしこい",
+    "japanese_meaning": "",
+    "chinese": "聪明",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "萎む",
+    "yomigana": "しぼむ",
+    "japanese_meaning": "",
+    "chinese": "枯萎",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "枯らす",
+    "yomigana": "からす",
+    "japanese_meaning": "",
+    "chinese": "枯萎",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "萎れる",
+    "yomigana": "しおれる",
+    "japanese_meaning": "",
+    "chinese": "枯萎、沮丧",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "萎びる",
+    "yomigana": "しなびる",
+    "japanese_meaning": "",
+    "chinese": "枯萎",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "曲がる",
+    "yomigana": "まがる",
+    "japanese_meaning": "",
+    "chinese": "转弯",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "憧憬",
+    "yomigana": "しょうけい",
+    "japanese_meaning": "",
+    "chinese": "憧憬",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "祭る",
+    "yomigana": "まつる",
+    "japanese_meaning": "",
+    "chinese": "祭奠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "生い茂る",
+    "yomigana": "おいしげる",
+    "japanese_meaning": "",
+    "chinese": "繁盛、茂盛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "昇進",
+    "yomigana": "しょうしん",
+    "japanese_meaning": "",
+    "chinese": "晋升、晋级",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "度胸",
+    "yomigana": "どきょう",
+    "japanese_meaning": "",
+    "chinese": "胆量",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "怖がる",
+    "yomigana": "こわがる",
+    "japanese_meaning": "",
+    "chinese": "害怕、恐惧",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "正しく",
+    "yomigana": "まさしく",
+    "japanese_meaning": "",
+    "chinese": "正是",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "鎮める",
+    "yomigana": "しずめる",
+    "japanese_meaning": "",
+    "chinese": "镇定、平息",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "託す",
+    "yomigana": "たくす",
+    "japanese_meaning": "",
+    "chinese": "寄托、委托",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ぎこちない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "笨拙、生硬",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "外向",
+    "yomigana": "がいこう",
+    "japanese_meaning": "",
+    "chinese": "外向",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "内向",
+    "yomigana": "ないこう",
+    "japanese_meaning": "",
+    "chinese": "内向",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "潜む",
+    "yomigana": "ひそむ",
+    "japanese_meaning": "",
+    "chinese": "隐藏",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "抜けてる",
+    "yomigana": "ぬけてる",
+    "japanese_meaning": "",
+    "chinese": "呆呆的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "待ち侘びる",
+    "yomigana": "まちわびる",
+    "japanese_meaning": "",
+    "chinese": "等的不耐烦",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "逸らす",
+    "yomigana": "そらす",
+    "japanese_meaning": "",
+    "chinese": "偏离、错过、岔开",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "腐る",
+    "yomigana": "くさる",
+    "japanese_meaning": "",
+    "chinese": "腐朽、腐烂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お呪い",
+    "yomigana": "おまじない",
+    "japanese_meaning": "",
+    "chinese": "魔法、巫术",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "死にかける",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "濒死",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ドローン",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "无人机",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "御愁傷様",
+    "yomigana": "ごしゅうしょうさま",
+    "japanese_meaning": "",
+    "chinese": "节哀顺变",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "後退る",
+    "yomigana": "あとずさる",
+    "japanese_meaning": "",
+    "chinese": "后退",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "果てる",
+    "yomigana": "はてる",
+    "japanese_meaning": "",
+    "chinese": "尽头、极限（....至极）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "永らえる",
+    "yomigana": "ながらえる",
+    "japanese_meaning": "",
+    "chinese": "长生不老",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "鵜呑み",
+    "yomigana": "うのみ",
+    "japanese_meaning": "",
+    "chinese": "囫囵吞枣",
+    "pinyin": "",
+    "chinese_meaning": "不加思考全盘接受"
+  },
+  {
+    "japanese": "パンフレット",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "手册、宣传册",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ケーブルカー",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "缆车",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "崖",
+    "yomigana": "がけ",
+    "japanese_meaning": "",
+    "chinese": "悬崖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "爪",
+    "yomigana": "つめ",
+    "japanese_meaning": "",
+    "chinese": "指甲、爪子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "指にすがる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "依赖....的帮助",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "まずない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "基本不可能",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "潔い諦め",
+    "yomigana": "いさぎよいあきらめ",
+    "japanese_meaning": "",
+    "chinese": "果断放弃",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "潔い",
+    "yomigana": "いさぎよい",
+    "japanese_meaning": "",
+    "chinese": "纯洁、果断、干脆",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見せかけ",
+    "yomigana": "みせかけ",
+    "japanese_meaning": "",
+    "chinese": "虚有其表",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ぬか喜び",
+    "yomigana": "ぬかよろこび",
+    "japanese_meaning": "",
+    "chinese": "空欢喜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "閃き",
+    "yomigana": "ひらめき",
+    "japanese_meaning": "",
+    "chinese": "闪烁、灵光一闪、灵感",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕送り",
+    "yomigana": "しおくり",
+    "japanese_meaning": "",
+    "chinese": "生活费",
+    "pinyin": "",
+    "chinese_meaning": "三类动词"
+  },
+  {
+    "japanese": "カミングアウト",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "出柜、公布",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "一縷",
+    "yomigana": "いちる",
+    "japanese_meaning": "",
+    "chinese": "一缕、一点点",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手記",
+    "yomigana": "しゅき",
+    "japanese_meaning": "",
+    "chinese": "备忘录、笔记",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "むせ返る",
+    "yomigana": "むせかえる",
+    "japanese_meaning": "",
+    "chinese": "喘不过气、呛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "リスカ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "割腕自残",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "メンヘラ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "精神失常的人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "狼",
+    "yomigana": "おおかみ",
+    "japanese_meaning": "",
+    "chinese": "狼、色狼",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "場数を踏む",
+    "yomigana": "ばかずをふむ",
+    "japanese_meaning": "",
+    "chinese": "积累经验",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "バリエーション",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "变化、变种、变奏",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "やむを得ず",
+    "yomigana": "やむをえず",
+    "japanese_meaning": "",
+    "chinese": "不得已",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "傾聴",
+    "yomigana": "けいちょう",
+    "japanese_meaning": "",
+    "chinese": "倾听",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "やり取り",
+    "yomigana": "やりとり",
+    "japanese_meaning": "",
+    "chinese": "交流、交换",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "リストラ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "裁员、重组",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "携わる",
+    "yomigana": "たずさわる",
+    "japanese_meaning": "",
+    "chinese": "从事、参与",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "携える",
+    "yomigana": "たずさえる",
+    "japanese_meaning": "",
+    "chinese": "携带",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "弄ぶ",
+    "yomigana": "もてあそぶ",
+    "japanese_meaning": "",
+    "chinese": "玩弄",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ばらす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "拆开、杀掉、揭穿",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ツテ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "门路、人情关系",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "コネ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "关系、门路",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "誇示",
+    "yomigana": "こじ",
+    "japanese_meaning": "",
+    "chinese": "炫耀",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見極める",
+    "yomigana": "みきわめる",
+    "japanese_meaning": "",
+    "chinese": "看清、分清",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "八つ当たり",
+    "yomigana": "やつあたり",
+    "japanese_meaning": "",
+    "chinese": "乱发脾气",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "振り向く",
+    "yomigana": "ふりむく",
+    "japanese_meaning": "",
+    "chinese": "回头、回顾、理睬",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "補う",
+    "yomigana": "おぎなう",
+    "japanese_meaning": "",
+    "chinese": "补充、弥补",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思いを巡らせる",
+    "yomigana": "おもいをめぐらせる",
+    "japanese_meaning": "",
+    "chinese": "好好想想",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "感じ取る",
+    "yomigana": "かんじとる",
+    "japanese_meaning": "",
+    "chinese": "感到",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "逸話",
+    "yomigana": "いつわ",
+    "japanese_meaning": "",
+    "chinese": "趣闻",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "振り絞る",
+    "yomigana": "ふりしぼる",
+    "japanese_meaning": "",
+    "chinese": "竭尽全力做、竭尽全力喊",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "設える",
+    "yomigana": "しつらえる",
+    "japanese_meaning": "",
+    "chinese": "陈设、安设",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "騒めく",
+    "yomigana": "ざわめく",
+    "japanese_meaning": "",
+    "chinese": "吵吵嚷嚷",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "記述",
+    "yomigana": "きじゅつ",
+    "japanese_meaning": "",
+    "chinese": "记述",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "戒める",
+    "yomigana": "いましめる",
+    "japanese_meaning": "",
+    "chinese": "劝戒、劝告",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "葬る",
+    "yomigana": "ほうむる",
+    "japanese_meaning": "",
+    "chinese": "埋葬、掩盖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "勝ち味",
+    "yomigana": "かちみ",
+    "japanese_meaning": "",
+    "chinese": "胜算",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "痴がましい",
+    "yomigana": "おこがましい",
+    "japanese_meaning": "",
+    "chinese": "愚蠢可笑的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "解き放つ",
+    "yomigana": "ときはなつ",
+    "japanese_meaning": "",
+    "chinese": "解放",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "口車",
+    "yomigana": "くちぐるま",
+    "japanese_meaning": "",
+    "chinese": "花言巧语",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "タピオカ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "珍珠奶茶",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "コテージ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "小屋、别墅",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "都合",
+    "yomigana": "つごう",
+    "japanese_meaning": "",
+    "chinese": "（某种）关系理由",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "身を寄せる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "寄居、投奔",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "皆殺し",
+    "yomigana": "みなごろし",
+    "japanese_meaning": "",
+    "chinese": "杀光、杀尽",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "乞う",
+    "yomigana": "こう",
+    "japanese_meaning": "",
+    "chinese": "哀求、请求、祈求",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "豆知識",
+    "yomigana": "まめちしき",
+    "japanese_meaning": "",
+    "chinese": "小知识",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "放る",
+    "yomigana": "ほうる",
+    "japanese_meaning": "",
+    "chinese": "扔、放弃、置之不理",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "灯す",
+    "yomigana": "ともす",
+    "japanese_meaning": "",
+    "chinese": "点燃、点亮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "緩める",
+    "yomigana": "ゆるめる",
+    "japanese_meaning": "",
+    "chinese": "放松、缓和",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "カーブ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "弯曲、（道路）转弯处",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "狂おしい",
+    "yomigana": "くるおしい",
+    "japanese_meaning": "",
+    "chinese": "像疯了一样",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "選考",
+    "yomigana": "せんこう",
+    "japanese_meaning": "",
+    "chinese": "选拔、评选",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "選別",
+    "yomigana": "せんべつ",
+    "japanese_meaning": "",
+    "chinese": "筛选、挑选",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕分け",
+    "yomigana": "しわけ",
+    "japanese_meaning": "",
+    "chinese": "区分、分类",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "水溜り",
+    "yomigana": "みずたまり",
+    "japanese_meaning": "",
+    "chinese": "水洼、水塘",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "汲み取る",
+    "yomigana": "くみとる",
+    "japanese_meaning": "",
+    "chinese": "把水取出来放进其他容器、领会对方心情",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "アバズレ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "平行不端的女人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "滴る",
+    "yomigana": "したたる",
+    "japanese_meaning": "",
+    "chinese": "滴落",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "やっつける",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "干完、解决",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "食い違う",
+    "yomigana": "くいちがう",
+    "japanese_meaning": "",
+    "chinese": "分歧、不一致",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "千切れる",
+    "yomigana": "ちぎれる",
+    "japanese_meaning": "",
+    "chinese": "断裂、破碎",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "行き詰まり",
+    "yomigana": "ゆきづまり",
+    "japanese_meaning": "",
+    "chinese": "停滞、死胡同",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "パチモン",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "假货",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "差し置く",
+    "yomigana": "さしおく",
+    "japanese_meaning": "",
+    "chinese": "忽视、置之不理",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "諌める",
+    "yomigana": "いさめる",
+    "japanese_meaning": "",
+    "chinese": "劝告",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "踏み躙る",
+    "yomigana": "ふみにじる",
+    "japanese_meaning": "",
+    "chinese": "践踏、蹂躏",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "狭間",
+    "yomigana": "はざま",
+    "japanese_meaning": "",
+    "chinese": "夹缝、间隙",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "迫る",
+    "yomigana": "せまる",
+    "japanese_meaning": "",
+    "chinese": "强迫、迫使、临近",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "名指す",
+    "yomigana": "なざす",
+    "japanese_meaning": "",
+    "chinese": "指明、点名",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ズレ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "分歧、不一致",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "色素",
+    "yomigana": "しきそ",
+    "japanese_meaning": "",
+    "chinese": "色素",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "背を向ける",
+    "yomigana": "せをむける",
+    "japanese_meaning": "",
+    "chinese": "不理睬、不服从",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "受け切れる",
+    "yomigana": "うけきれる",
+    "japanese_meaning": "",
+    "chinese": "完全接受",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "使い果たす",
+    "yomigana": "つかいはたす",
+    "japanese_meaning": "",
+    "chinese": "用尽、用光",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "擦り切れる",
+    "yomigana": "すりきれる",
+    "japanese_meaning": "",
+    "chinese": "磨损",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "無理矢理",
+    "yomigana": "むりやり",
+    "japanese_meaning": "",
+    "chinese": "强行、强逼",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ハンカチ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "手帕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "イラッとする",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "不爽、不快、不舒服",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "佇む",
+    "yomigana": "たたずむ",
+    "japanese_meaning": "",
+    "chinese": "站着",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ホラー",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "恐怖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "瘡蓋",
+    "yomigana": "かさぶた",
+    "japanese_meaning": "",
+    "chinese": "疮痂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "人見知り",
+    "yomigana": "ひとみしり",
+    "japanese_meaning": "",
+    "chinese": "怕生、认生",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "顔見知り",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "熟人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "バネ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "弹簧、弹力",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ランドセル",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "双肩书包",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "強情",
+    "yomigana": "ごうじょう",
+    "japanese_meaning": "",
+    "chinese": "固执",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "瞼",
+    "yomigana": "まぶた",
+    "japanese_meaning": "",
+    "chinese": "眼皮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "真っ新",
+    "yomigana": "まっさら",
+    "japanese_meaning": "",
+    "chinese": "全新、崭新",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "おっかない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "可怕的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "おっかなびっくり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "提心吊胆",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "意気地なし",
+    "yomigana": "いくじなし",
+    "japanese_meaning": "",
+    "chinese": "懦夫",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "意気地",
+    "yomigana": "いくじ",
+    "japanese_meaning": "",
+    "chinese": "魄力、志气、骨气",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "バカンス",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "连续休假",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "成り行き",
+    "yomigana": "なりゆき",
+    "japanese_meaning": "",
+    "chinese": "发展、趋势",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "的外れ",
+    "yomigana": "まとはずれ",
+    "japanese_meaning": "",
+    "chinese": "离题",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "不行き届き",
+    "yomigana": "ふゆきとどき",
+    "japanese_meaning": "",
+    "chinese": "不周到",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "行き届く",
+    "yomigana": "いきとどく、ゆきとどく",
+    "japanese_meaning": "",
+    "chinese": "周到",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "~こととて",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "因为...、表示理由（超正式）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "餌",
+    "yomigana": "えさ",
+    "japanese_meaning": "",
+    "chinese": "诱饵、饲料",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お気に召す",
+    "yomigana": "おきにめす",
+    "japanese_meaning": "「気に入る」の尊敬語",
+    "chinese": "中意",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "端ない",
+    "yomigana": "はしたない",
+    "japanese_meaning": "",
+    "chinese": "粗俗、没品位",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "洗い出す",
+    "yomigana": "あらいだす",
+    "japanese_meaning": "",
+    "chinese": "查出",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "深手を負う",
+    "yomigana": "ふかでをおう",
+    "japanese_meaning": "",
+    "chinese": "身负重伤",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "やり過ごす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "让...先过去、等....过去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "上書き",
+    "yomigana": "うわがき",
+    "japanese_meaning": "",
+    "chinese": "覆盖（数据）、写在上面（的文字）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "言い触らす",
+    "yomigana": "いいふらす",
+    "japanese_meaning": "",
+    "chinese": "宣扬、扬言",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "取り巻く",
+    "yomigana": "とりまく",
+    "japanese_meaning": "",
+    "chinese": "包围、拍马屁",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "煌びやか",
+    "yomigana": "きらびやか",
+    "japanese_meaning": "",
+    "chinese": "华丽",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手引き",
+    "yomigana": "てびき",
+    "japanese_meaning": "",
+    "chinese": "指导、引荐",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "打ち切り",
+    "yomigana": "うちきり",
+    "japanese_meaning": "",
+    "chinese": "结束、中止",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "みだりに",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "随便的、胡乱的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "落書き",
+    "yomigana": "らくがき",
+    "japanese_meaning": "",
+    "chinese": "乱涂乱写",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ぐにゃぐにゃ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "软弱无力、软绵绵",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "空耳",
+    "yomigana": "そらみみ",
+    "japanese_meaning": "",
+    "chinese": "听错、幻听",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "虚ろ",
+    "yomigana": "うつろ",
+    "japanese_meaning": "",
+    "chinese": "空洞、空虚",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "容体",
+    "yomigana": "ようだい",
+    "japanese_meaning": "",
+    "chinese": "病情、仪容",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "歪む",
+    "yomigana": "ゆがむ",
+    "japanese_meaning": "",
+    "chinese": "歪斜、歪曲",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "項垂れる",
+    "yomigana": "うなだれる",
+    "japanese_meaning": "",
+    "chinese": "垂头丧气",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "気味",
+    "yomigana": "きみ",
+    "japanese_meaning": "",
+    "chinese": "感触、感受",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "不気味",
+    "yomigana": "ぶきみ",
+    "japanese_meaning": "",
+    "chinese": "阴森恐怖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "撫でる",
+    "yomigana": "なでる",
+    "japanese_meaning": "",
+    "chinese": "抚摸",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "素振りを見せる",
+    "yomigana": "そぶりをみせる",
+    "japanese_meaning": "",
+    "chinese": "假装、做出某种样子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "紡ぐ",
+    "yomigana": "つむぐ",
+    "japanese_meaning": "",
+    "chinese": "编织、讲述",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "吃る",
+    "yomigana": "どもる",
+    "japanese_meaning": "",
+    "chinese": "口吃、结巴",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "際立つ",
+    "yomigana": "きわだつ",
+    "japanese_meaning": "",
+    "chinese": "突出、显著",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "務まる",
+    "yomigana": "つとまる",
+    "japanese_meaning": "",
+    "chinese": "胜任",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "突き動かす",
+    "yomigana": "つきうごかす",
+    "japanese_meaning": "",
+    "chinese": "激起、引起",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "引きずり込む",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "拖入、拽进",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "患う",
+    "yomigana": "わずらう",
+    "japanese_meaning": "",
+    "chinese": "患病、苦恼、难以....",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "喘ぐ",
+    "yomigana": "あえぐ",
+    "japanese_meaning": "",
+    "chinese": "喘气",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "疑り深い",
+    "yomigana": "うたぐりぶかい",
+    "japanese_meaning": "",
+    "chinese": "生性多疑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "交える",
+    "yomigana": "まじえる",
+    "japanese_meaning": "",
+    "chinese": "掺杂、交叉",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "挫折",
+    "yomigana": "ざせつ",
+    "japanese_meaning": "",
+    "chinese": "挫折",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "裸",
+    "yomigana": "はだか",
+    "japanese_meaning": "",
+    "chinese": "裸体",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "凍る",
+    "yomigana": "こおる",
+    "japanese_meaning": "",
+    "chinese": "结冰",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "凍える",
+    "yomigana": "こごえる",
+    "japanese_meaning": "",
+    "chinese": "冻僵",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "捻り出す",
+    "yomigana": "ひねりだす",
+    "japanese_meaning": "",
+    "chinese": "绞尽脑汁想出",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "成り切る",
+    "yomigana": "なりきる",
+    "japanese_meaning": "",
+    "chinese": "彻底成为......",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "古",
+    "yomigana": "いにしえ",
+    "japanese_meaning": "",
+    "chinese": "古代、古老",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "犯す",
+    "yomigana": "おかす",
+    "japanese_meaning": "",
+    "chinese": "违反、冒犯",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "定着",
+    "yomigana": "ていちゃく",
+    "japanese_meaning": "",
+    "chinese": "固定",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "変わり映え",
+    "yomigana": "かわりばえ",
+    "japanese_meaning": "",
+    "chinese": "有变化",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "変わり映えしない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "一成不变",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "叩き出す",
+    "yomigana": "たたきだす",
+    "japanese_meaning": "",
+    "chinese": "赶出去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "言いなり",
+    "yomigana": "いいなり",
+    "japanese_meaning": "",
+    "chinese": "唯命是从",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ウケる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "太搞笑了（俚语）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "はったり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "虚张声势",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "寝取られ",
+    "yomigana": "ねとられ",
+    "japanese_meaning": "",
+    "chinese": "NTR",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "費やす",
+    "yomigana": "ついやす",
+    "japanese_meaning": "",
+    "chinese": "耗费、浪费",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "宥める",
+    "yomigana": "なだめる",
+    "japanese_meaning": "",
+    "chinese": "安抚",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "会釈",
+    "yomigana": "えしゃく",
+    "japanese_meaning": "",
+    "chinese": "点头",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "立ちはだかる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "挡住、阻挡",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "機嫌を取る",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "讨好",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "這う",
+    "yomigana": "はう",
+    "japanese_meaning": "",
+    "chinese": "爬",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お握り",
+    "yomigana": "おにぎり",
+    "japanese_meaning": "",
+    "chinese": "饭团",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "為替",
+    "yomigana": "かわせ",
+    "japanese_meaning": "",
+    "chinese": "外汇",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "大家さん",
+    "yomigana": "おおやさん",
+    "japanese_meaning": "",
+    "chinese": "房东",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "強がり",
+    "yomigana": "つよがり",
+    "japanese_meaning": "",
+    "chinese": "逞强",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "拒食症",
+    "yomigana": "きょしょくしょう",
+    "japanese_meaning": "",
+    "chinese": "厌食症",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "寝そべり族",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "躺平族",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ネタバレ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "剧透",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "因む",
+    "yomigana": "ちなむ",
+    "japanese_meaning": "",
+    "chinese": "有关联、与...有联系",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "チャラにする",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "扯平",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ぼったくり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "宰客、宰人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "怪しからん",
+    "yomigana": "けしからん",
+    "japanese_meaning": "",
+    "chinese": "岂有此理、粗俗",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "鬱陶しい",
+    "yomigana": "うっとうしい",
+    "japanese_meaning": "",
+    "chinese": "郁闷、烦闷",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "言い含める",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "耐心嘱咐",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "足場",
+    "yomigana": "あしば",
+    "japanese_meaning": "",
+    "chinese": "立足处、立脚处",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "恨めしい",
+    "yomigana": "うらめしい",
+    "japanese_meaning": "",
+    "chinese": "可恨",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "踏ん張る",
+    "yomigana": "ふんばる",
+    "japanese_meaning": "",
+    "chinese": "站稳脚跟、坚持",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "がくがく",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "颤动",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "鏡越し",
+    "yomigana": "かがみごし",
+    "japanese_meaning": "",
+    "chinese": "对镜自拍",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ヘルメット",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "安全帽",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "メット",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "头盔",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "あくどい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "浓艳（颜色）、恶毒（做法）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "憑く",
+    "yomigana": "つく",
+    "japanese_meaning": "",
+    "chinese": "（妖魔鬼怪）附体",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "のらりくらり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "游手好闲",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "踏み潰す",
+    "yomigana": "ふみつぶす",
+    "japanese_meaning": "",
+    "chinese": "踩碎、踩烂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "スカウト",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "挖角",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "汚らわしい",
+    "yomigana": "けがらわしい",
+    "japanese_meaning": "",
+    "chinese": "肮脏的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "リビドー",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "性欲",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "想定",
+    "yomigana": "そうてい",
+    "japanese_meaning": "",
+    "chinese": "设想、假定",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "栄える",
+    "yomigana": "さかえる",
+    "japanese_meaning": "",
+    "chinese": "繁荣、昌盛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "貪る",
+    "yomigana": "むさぼる",
+    "japanese_meaning": "",
+    "chinese": "贪图、贪求",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "改札",
+    "yomigana": "かいさつ",
+    "japanese_meaning": "",
+    "chinese": "检票",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "蔓延る",
+    "yomigana": "はびこる",
+    "japanese_meaning": "",
+    "chinese": "蔓延、猖獗",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "念入り",
+    "yomigana": "ねんいり",
+    "japanese_meaning": "",
+    "chinese": "细致",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "慎む",
+    "yomigana": "つつしむ",
+    "japanese_meaning": "",
+    "chinese": "慎重、节制",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "行き過ぎる",
+    "yomigana": "ゆきすぎる",
+    "japanese_meaning": "",
+    "chinese": "过火、经过",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "奏でる",
+    "yomigana": "かなでる",
+    "japanese_meaning": "",
+    "chinese": "奏乐",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "大まか",
+    "yomigana": "おおまか",
+    "japanese_meaning": "",
+    "chinese": "粗略",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "到底",
+    "yomigana": "とうてい",
+    "japanese_meaning": "",
+    "chinese": "无论如何也",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "がっかり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "沮丧",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "迂闊",
+    "yomigana": "うかつ",
+    "japanese_meaning": "",
+    "chinese": "疏忽、愚蠢无知",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ぶち抜く",
+    "yomigana": "ぶちぬく",
+    "japanese_meaning": "",
+    "chinese": "穿透、突破",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お節介",
+    "yomigana": "おせっかい",
+    "japanese_meaning": "",
+    "chinese": "多管闲事",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "じわり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "逐渐、慢慢的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "蹲る",
+    "yomigana": "うずくまる",
+    "japanese_meaning": "",
+    "chinese": "蹲坐",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "アバター",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "虚拟角色",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "真っ平御免",
+    "yomigana": "まっぴらごめん",
+    "japanese_meaning": "",
+    "chinese": "死都不要",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "掠れる",
+    "yomigana": "かすれる",
+    "japanese_meaning": "",
+    "chinese": "沙哑、模糊",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "華奢",
+    "yomigana": "きゃしゃ",
+    "japanese_meaning": "",
+    "chinese": "纤细、不结实",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思いもよらない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "做梦都没想到",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "籠る",
+    "yomigana": "こもる",
+    "japanese_meaning": "",
+    "chinese": "充满、闭门不出",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "くずおれる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "瘫倒、跪倒",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "インタフェース",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "界面、UI",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "....めかす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "装作.....、带走....气氛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "冗談めかす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "装作开玩笑",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "皆無",
+    "yomigana": "かいむ",
+    "japanese_meaning": "",
+    "chinese": "完全没有、毫无",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "間近",
+    "yomigana": "まぢか",
+    "japanese_meaning": "",
+    "chinese": "临近",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "即座に",
+    "yomigana": "そくざに",
+    "japanese_meaning": "",
+    "chinese": "立即",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "フロア",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "楼层",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "さぞかし",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "想必",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "気を張り詰める",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "精神紧张",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "引き下がる",
+    "yomigana": "ひきさがる",
+    "japanese_meaning": "",
+    "chinese": "退下、退出",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "気が引ける",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "难为情",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "沽券",
+    "yomigana": "こけん",
+    "japanese_meaning": "",
+    "chinese": "体面、声誉",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "心許ない",
+    "yomigana": "こころもとない",
+    "japanese_meaning": "",
+    "chinese": "不安、不可靠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "頬張る",
+    "yomigana": "ほおばる",
+    "japanese_meaning": "",
+    "chinese": "大口吃、把嘴塞满",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "訝しい",
+    "yomigana": "いぶかしい",
+    "japanese_meaning": "",
+    "chinese": "感到不解的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "高らかに",
+    "yomigana": "たからかに",
+    "japanese_meaning": "",
+    "chinese": "（声音）洪亮的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "束ねる",
+    "yomigana": "たばねる",
+    "japanese_meaning": "",
+    "chinese": "捆在一起",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "堪える",
+    "yomigana": "こらえる",
+    "japanese_meaning": "",
+    "chinese": "忍耐、忍住",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "タダ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "白给、不要钱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "噤む",
+    "yomigana": "つぐむ",
+    "japanese_meaning": "",
+    "chinese": "闭口、沉默",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "口をつぐむ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "闭口不言",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "去り際",
+    "yomigana": "さりぎわ",
+    "japanese_meaning": "",
+    "chinese": "归去之时",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "アットホーム",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "像在家一般、舒适",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "メルヘン",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "童话",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ベテラン",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "高手、老手",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "丸め込む",
+    "yomigana": "まるめこむ",
+    "japanese_meaning": "",
+    "chinese": "忽悠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "挑む",
+    "yomigana": "いどむ",
+    "japanese_meaning": "",
+    "chinese": "挑战",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "掛け声",
+    "yomigana": "かけごえ",
+    "japanese_meaning": "",
+    "chinese": "喝彩声",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "アブれる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "落单",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "突っ込む",
+    "yomigana": "つっこむ",
+    "japanese_meaning": "",
+    "chinese": "冲进、插进、吐槽",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "首を突っ込む",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "插手、介入",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "自重",
+    "yomigana": "じちょう",
+    "japanese_meaning": "",
+    "chinese": "自重、自我约束",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "剣呑",
+    "yomigana": "けんのん",
+    "japanese_meaning": "",
+    "chinese": "危险的、不怀好意的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "覆う",
+    "yomigana": "おおう",
+    "japanese_meaning": "",
+    "chinese": "覆盖、掩盖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ネコババ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "私吞",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "得心",
+    "yomigana": "とくしん",
+    "japanese_meaning": "",
+    "chinese": "彻底了解",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "堪能",
+    "yomigana": "たんのう",
+    "japanese_meaning": "",
+    "chinese": "擅长、十分满足",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "吝か",
+    "yomigana": "やぶさか",
+    "japanese_meaning": "",
+    "chinese": "吝啬、介意",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "行きずり",
+    "yomigana": "ゆきずり",
+    "japanese_meaning": "",
+    "chinese": "擦肩而过的路人、偶遇",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "バスタブ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "浴缸",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "未だしも",
+    "yomigana": "まだしも",
+    "japanese_meaning": "",
+    "chinese": "还说得过去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "交代",
+    "yomigana": "こうたい",
+    "japanese_meaning": "",
+    "chinese": "轮流",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "おまけ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "附赠",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "出頭",
+    "yomigana": "しゅっとう",
+    "japanese_meaning": "",
+    "chinese": "自首、露面",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "寄ってたかって",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "一哄而上、蜂拥而上",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ぶり返す",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "再次袭来、重新浮现",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "欠かせない",
+    "yomigana": "かかせない",
+    "japanese_meaning": "",
+    "chinese": "必不可少的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "飛び掛かる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "猛扑过去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "似て非なる",
+    "yomigana": "にてひなる",
+    "japanese_meaning": "",
+    "chinese": "看似相似却完全不同",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "開き直る",
+    "yomigana": "ひらきなおる",
+    "japanese_meaning": "",
+    "chinese": "将错就错",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "噛み合う",
+    "yomigana": "かみあう",
+    "japanese_meaning": "",
+    "chinese": "咬合、吻合、一致",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "足掻く",
+    "yomigana": "あがく",
+    "japanese_meaning": "",
+    "chinese": "挣扎（摆脱困境）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "退ける",
+    "yomigana": "しりぞける",
+    "japanese_meaning": "",
+    "chinese": "驳回、反驳",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "込み上げる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "往上涌",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "強請る",
+    "yomigana": "ねだる",
+    "japanese_meaning": "",
+    "chinese": "索求、强求",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "稍",
+    "yomigana": "やや",
+    "japanese_meaning": "",
+    "chinese": "略微、稍微",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "追い出す",
+    "yomigana": "おいだす",
+    "japanese_meaning": "",
+    "chinese": "轰出去、赶出去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "振り切る",
+    "yomigana": "ふりきる",
+    "japanese_meaning": "",
+    "chinese": "甩开、摆脱",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ただモノ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "普通人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ただモノではない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "绝非等闲之辈",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "転売",
+    "yomigana": "てんばい",
+    "japanese_meaning": "",
+    "chinese": "转卖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "転売ヤー",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "黄牛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "待ち遠しい",
+    "yomigana": "まちどおしい",
+    "japanese_meaning": "",
+    "chinese": "盼望",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "目まぐるしい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "眼花缭乱、瞬息万变",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "擦り付ける",
+    "yomigana": "なすりつける",
+    "japanese_meaning": "",
+    "chinese": "甩锅、转嫁",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ハテナ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "问号",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "じたばた",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "手忙脚乱、慌张",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "いじましい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "悲哀的、可怜的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見紛う",
+    "yomigana": "みまがう",
+    "japanese_meaning": "",
+    "chinese": "错看成....",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "装う",
+    "yomigana": "よそおう",
+    "japanese_meaning": "",
+    "chinese": "假装、装扮",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "踵",
+    "yomigana": "かかと",
+    "japanese_meaning": "",
+    "chinese": "鞋跟、脚跟",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "染み込む",
+    "yomigana": "しみこむ",
+    "japanese_meaning": "",
+    "chinese": "渗透、渗入",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "裏付け",
+    "yomigana": "うらづけ",
+    "japanese_meaning": "",
+    "chinese": "依据、根据",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見逸れる",
+    "yomigana": "みそれる",
+    "japanese_meaning": "",
+    "chinese": "小瞧了",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ときたらなかった",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "简直没话说",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "うまさときたらなかった",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "好吃到没话说",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "損ねる",
+    "yomigana": "そこねる",
+    "japanese_meaning": "",
+    "chinese": "损害、没成功",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "お駄賃",
+    "yomigana": "おだちん",
+    "japanese_meaning": "",
+    "chinese": "跑腿费",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "無念",
+    "yomigana": "むねん",
+    "japanese_meaning": "",
+    "chinese": "懊悔",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仕留める",
+    "yomigana": "しとめる",
+    "japanese_meaning": "",
+    "chinese": "打死、射中、逮住",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "嗅ぎ当てる",
+    "yomigana": "かぎあてる",
+    "japanese_meaning": "",
+    "chinese": "嗅出",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "月並み",
+    "yomigana": "つきなみ",
+    "japanese_meaning": "",
+    "chinese": "平庸、每月（例行）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "万引き",
+    "yomigana": "まんびき",
+    "japanese_meaning": "",
+    "chinese": "偷窃",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "割り勘",
+    "yomigana": "わりかん",
+    "japanese_meaning": "",
+    "chinese": "AA制",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "七夕",
+    "yomigana": "たなばた",
+    "japanese_meaning": "",
+    "chinese": "七夕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "節句",
+    "yomigana": "せっく",
+    "japanese_meaning": "",
+    "chinese": "节日",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "端午の節句",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "端午节",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ちまき",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "粽、粽子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "雛祭り",
+    "yomigana": "ひなまつり",
+    "japanese_meaning": "",
+    "chinese": "女儿节",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "燕",
+    "yomigana": "つばめ",
+    "japanese_meaning": "",
+    "chinese": "燕子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "わいわい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "大声吵嚷",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "逆算",
+    "yomigana": "ぎゃくさん",
+    "japanese_meaning": "",
+    "chinese": "倒数、倒算",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "割合",
+    "yomigana": "わりあい",
+    "japanese_meaning": "",
+    "chinese": "比例",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "上回る",
+    "yomigana": "うわまわる",
+    "japanese_meaning": "",
+    "chinese": "超过",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "フォーク",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "叉子",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "歯触り",
+    "yomigana": "はざわり",
+    "japanese_meaning": "",
+    "chinese": "口感",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "合流",
+    "yomigana": "ごうりゅう",
+    "japanese_meaning": "",
+    "chinese": "会合、汇合",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "売却",
+    "yomigana": "ばいきゃく",
+    "japanese_meaning": "",
+    "chinese": "售出、卖掉",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "思い止まる",
+    "yomigana": "おもいとどまる",
+    "japanese_meaning": "",
+    "chinese": "打消（主意）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "性懲りも無く",
+    "yomigana": "しょうこりもなく",
+    "japanese_meaning": "",
+    "chinese": "死性不改",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "砕ける",
+    "yomigana": "くだける",
+    "japanese_meaning": "",
+    "chinese": "破碎、瓦解",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "砕け散る",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "破碎散落",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "目を見開く",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "睁大眼睛",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ランク",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "排序、级别",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見当たる",
+    "yomigana": "みあたる",
+    "japanese_meaning": "",
+    "chinese": "找到、发现",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "注ぐ",
+    "yomigana": "そそぐ",
+    "japanese_meaning": "",
+    "chinese": "注入、浇入",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "仰ぐ",
+    "yomigana": "あおぐ",
+    "japanese_meaning": "",
+    "chinese": "仰望",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "俯く",
+    "yomigana": "うつむく",
+    "japanese_meaning": "",
+    "chinese": "俯视",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "冷やかす",
+    "yomigana": "ひやかす",
+    "japanese_meaning": "",
+    "chinese": "嘲笑、戏弄",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "薙ぐ",
+    "yomigana": "なぐ",
+    "japanese_meaning": "",
+    "chinese": "横扫",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "素通り",
+    "yomigana": "すどおり",
+    "japanese_meaning": "",
+    "chinese": "无视、略过",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "居住まい",
+    "yomigana": "いずまい",
+    "japanese_meaning": "",
+    "chinese": "坐姿",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "差し引き",
+    "yomigana": "さしひき",
+    "japanese_meaning": "",
+    "chinese": "扣除、相抵、结算",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "傾げる",
+    "yomigana": "かしげる",
+    "japanese_meaning": "",
+    "chinese": "倾斜",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "醸す",
+    "yomigana": "かもす",
+    "japanese_meaning": "",
+    "chinese": "酿造",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "片っ端から",
+    "yomigana": "かたっぱしから",
+    "japanese_meaning": "",
+    "chinese": "一个接一个的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "等しい",
+    "yomigana": "ひとしい",
+    "japanese_meaning": "",
+    "chinese": "相同、等于",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "捲る",
+    "yomigana": "まくる",
+    "japanese_meaning": "",
+    "chinese": "卷起、掀起",
+    "pinyin": "",
+    "chinese_meaning": "接动词ます型→疯狂做某事"
+  },
+  {
+    "japanese": "食べまくる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "疯狂吃",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "詐欺をしまくる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "疯狂诈骗",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "頭ごなし",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "不讲理、不分青红皂白",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手こずる",
+    "yomigana": "てこずる",
+    "japanese_meaning": "",
+    "chinese": "棘手",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "高みの見物",
+    "yomigana": "たかみのけんぶつ",
+    "japanese_meaning": "",
+    "chinese": "隔岸观火、旁观人",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "出で立ち",
+    "yomigana": "いでたち",
+    "japanese_meaning": "",
+    "chinese": "装束、启程",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "見地",
+    "yomigana": "けんち",
+    "japanese_meaning": "",
+    "chinese": "观点",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "行きっこない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "绝对不去",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ほんのり",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "稍微",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "引き摺る",
+    "yomigana": "ひきずる",
+    "japanese_meaning": "",
+    "chinese": "拖拽、耿耿于怀",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "率いる",
+    "yomigana": "ひきいる",
+    "japanese_meaning": "",
+    "chinese": "率领",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "あくまで",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "终归、不过是...",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "冷ます",
+    "yomigana": "さます",
+    "japanese_meaning": "",
+    "chinese": "使冷却",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "張り込む",
+    "yomigana": "はりこむ",
+    "japanese_meaning": "",
+    "chinese": "埋伏",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "スリム",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "苗条",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ゴキブリ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "蟑螂",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "吹き替え",
+    "yomigana": "ふきかえ",
+    "japanese_meaning": "",
+    "chinese": "配音、替角",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "名札",
+    "yomigana": "なふだ",
+    "japanese_meaning": "",
+    "chinese": "姓名牌",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "引き金を引く",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "成为导火索",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "トリガー",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "扳机、导火索",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ハードル",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "难关、障碍",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "跪く",
+    "yomigana": "ひざまずく",
+    "japanese_meaning": "",
+    "chinese": "跪下",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ダジャレ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "冷笑话",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "マニア",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "狂热爱好者",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "キャップ",
+    "yomigana": "",
+    "japanese_meaning": "帽子",
+    "chinese": "帽子、瓶盖",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "非難",
+    "yomigana": "ひなん",
+    "japanese_meaning": "",
+    "chinese": "指责、责备",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "募る",
+    "yomigana": "つのる",
+    "japanese_meaning": "",
+    "chinese": "招募、加剧（状态程度）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "晴らす",
+    "yomigana": "はらす",
+    "japanese_meaning": "",
+    "chinese": "消除（疑虑）（不快）",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "恨みを晴らす",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "报仇雪恨",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "足捌き",
+    "yomigana": "あしさばき",
+    "japanese_meaning": "",
+    "chinese": "步伐、走位",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "腑に落ちない",
+    "yomigana": "ふにおちない",
+    "japanese_meaning": "",
+    "chinese": "无法理解",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "攻めあぐねる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "久攻不下",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "下請け",
+    "yomigana": "したうけ",
+    "japanese_meaning": "",
+    "chinese": "外包",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "手頃",
+    "yomigana": "てごろ",
+    "japanese_meaning": "",
+    "chinese": "适合、适合手的大小",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "轟く",
+    "yomigana": "とどろく",
+    "japanese_meaning": "",
+    "chinese": "轰鸣",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "撃ち放つ",
+    "yomigana": "うちはなつ",
+    "japanese_meaning": "",
+    "chinese": "发射",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "刈り取る",
+    "yomigana": "かりとる",
+    "japanese_meaning": "",
+    "chinese": "收割、铲除",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "雫",
+    "yomigana": "しずく",
+    "japanese_meaning": "",
+    "chinese": "水滴",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "ヤクザ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "黑道",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "デジャブ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "即视感",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "矜持",
+    "yomigana": "きょうじ",
+    "japanese_meaning": "",
+    "chinese": "自尊、骄傲",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "誘き寄せる",
+    "yomigana": "おびきよせる",
+    "japanese_meaning": "",
+    "chinese": "引诱过来",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "登り詰める",
+    "yomigana": "のぼりつめる",
+    "japanese_meaning": "",
+    "chinese": "爬到顶点",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "身も蓋もない",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "过于直截了当",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "張り合う",
+    "yomigana": "はりあう",
+    "japanese_meaning": "",
+    "chinese": "竞争、对抗",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "切り抜ける",
+    "yomigana": "きりぬける",
+    "japanese_meaning": "",
+    "chinese": "摆脱、脱离",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "気前がいい",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "慷慨大方",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "あからさまに",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "明显的",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "浮き彫り",
+    "yomigana": "うきぼり",
+    "japanese_meaning": "",
+    "chinese": "浮雕",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "遡る",
+    "yomigana": "さかのぼる",
+    "japanese_meaning": "",
+    "chinese": "回溯、追溯",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "如何ともし難い",
+    "yomigana": "いかんともしがたい",
+    "japanese_meaning": "",
+    "chinese": "无计可施",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "アルコール",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "酒精",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "目印",
+    "yomigana": "めじるし",
+    "japanese_meaning": "",
+    "chinese": "标记、记号",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "いざとなると・いざとなれば・いざとなったら",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "一旦到了紧要关头",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "いとこ",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "堂兄弟姐妹",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "フリーランス",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "自由职业者",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "受かる",
+    "yomigana": "うかる",
+    "japanese_meaning": "",
+    "chinese": "考上、及格",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "泡",
+    "yomigana": "あわ",
+    "japanese_meaning": "",
+    "chinese": "泡沫、水泡",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "水の泡になる",
+    "yomigana": "",
+    "japanese_meaning": "",
+    "chinese": "化为泡影",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "測る",
+    "yomigana": "はかる",
+    "japanese_meaning": "",
+    "chinese": "测量、推测",
+    "pinyin": "",
+    "chinese_meaning": ""
+  },
+  {
+    "japanese": "身のため",
+    "yomigana": "みのため",
+    "japanese_meaning": "",
+    "chinese": "为了你自己好",
+    "pinyin": "",
+    "chinese_meaning": ""
+  }
+]
